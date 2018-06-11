@@ -167,12 +167,21 @@ def main(unused_argv):
       x={"x": train_data},
       y=train_labels,
       batch_size=100,
-      num_epochs=None,
+      num_epochs=None, 
       shuffle=True)
   mnist_classifier.train(
       input_fn=train_input_fn,
       steps=20000,
       hooks=[logging_hook])
+  
+  # Evaluate the model and print results
+  eval_input_fn = tf.estimator.inputs.numpy_input_fn(
+      x={"x": eval_data},
+      y=eval_labels,
+      num_epochs=5, #change for number of training
+      shuffle=False)
+  eval_results = mnist_classifier.evaluate(input_fn=eval_input_fn)
+  print(eval_results)
 
 if __name__ == "__main__":
   tf.app.run()
