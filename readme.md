@@ -9,10 +9,10 @@ _Note: Data used in the projects (accessed under Datasets) is for demonstration 
 
 - ### Machine Learning
 
-	- [Preprocessing Pipelines: Cleaning a diabetes dataset](https://github.com/sajal2692/data-science-portfolio/blob/master/boston_housing/boston_housing.ipynb)
-	- [Regression: Predicting life expectancy based on demographic data](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb)
-	- [Classification: Predicting congress party based on voting record](https://github.com/sajal2692/data-science-portfolio/blob/master/customer_segments/customer_segments.ipynb)
-	- [Fine Tuning a Model: Improving model quality for predicting diabetes](https://github.com/sajal2692/Training-a-Smartcab-to-Drive)
+	- [Preprocessing Pipelines: Cleaning a diabetes dataset](https://github.com/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Preprocessing_Pipelines.ipynb)
+	- [Regression: Predicting life expectancy based on demographic data](https://github.com/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Regression%20with%20Scikit-Learn.ipynb)
+	- [Classification: Predicting congress party based on voting record](https://github.com/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Classification%20with%20Scikit-learn.ipynb)
+	- [Fine Tuning a Model: Improving model quality for predicting diabetes](https://github.com/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Fine%20Tuning%20a%20Model.ipynb)
 	
 
 	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
