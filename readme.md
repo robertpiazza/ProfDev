@@ -15,13 +15,14 @@ _Note: Data used in the projects (accessed under Datasets) is for demonstration 
 	- [Fine Tuning a Model: Improving model quality for predicting diabetes](https://github.com/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Fine%20Tuning%20a%20Model.ipynb)
 	
 
-	_Tools: scikit-learn, Pandas, Seaborn, Matplotlib_
+	*Tools: scikit-learn, Pandas, Seaborn, Matplotlib*
 
 
 - ### Data Analysis and Visualisation
-	- __Python__
-	- [Bokeh Library and Gapminder Visualization](https://nbviewer.jupyter.org/github/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Interactive%20Data%20Visualization%20with%20Bokeh.ipynb): An introduction to the Bokeh library for creating interactive visuals. 
+	- **Python**
+		- [Bokeh Library and Gapminder Visualization](https://nbviewer.jupyter.org/github/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Interactive%20Data%20Visualization%20with%20Bokeh.ipynb): An introduction to the Bokeh library for creating interactive visuals. 
+		*Tools: Bokeh, data cleaning via Pandas*
 	
-	- __R__ 
+	- **R**
 		- [Storm Data Analysis](https://rpubs.com/piazzara88/148657): An analysis of NOAA storm data for events which cause the greatest impact by health effects and by economic loss.
 	
