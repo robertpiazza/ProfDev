@@ -12,7 +12,7 @@ Created on Wed Aug  7 17:06:33 2019
 #Imports 
 
 import pandas as pd
-from bokeh.io import curdoc, output_file 
+from bokeh.io import curdoc, output_file, show
 from bokeh.layouts import row  
 from bokeh.models import ColumnDataSource, Select, HoverTool,  CategoricalColorMapper, Slider, RadioGroup
 from bokeh.plotting import figure 
@@ -189,5 +189,6 @@ r_select.on_change('value', update_plot)
 # Create layout and add to current document
 layout = row(widgetbox(slider, x_select, y_select, r_select, l_select), plot)
 output_file('gapminder.html')
+show(layout)
 curdoc().add_root(layout)
 

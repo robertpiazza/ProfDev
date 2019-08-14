@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)http://localhost:5006/gapminder_script -->
+<html lang="en" class="gr__localhost"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+      
+      <title>Gapminder</title>
+      
+      
+        
+          
+        <link rel="stylesheet" href="./Gapminder_files/bokeh.min.css" type="text/css">
+        <link rel="stylesheet" href="./Gapminder_files/bokeh-widgets.min.css" type="text/css">
+        <link rel="stylesheet" href="./Gapminder_files/bokeh-tables.min.css" type="text/css">
+        
+        
+          
+        <script type="text/javascript" src="./Gapminder_files/bokeh.min.js.download"></script>
+        <script type="text/javascript" src="./Gapminder_files/bokeh-widgets.min.js.download"></script>
+        <script type="text/javascript" src="./Gapminder_files/bokeh-tables.min.js.download"></script>
+        <script type="text/javascript" src="./Gapminder_files/bokeh-gl.min.js.download"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body data-gr-c-s-loaded="true" style="">
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="70f6f734-1370-4aa1-9995-2fd7cdd9dcf9"><div id="65D215A3B50C4B129F7BCB289BE2EA1D" class="bk-grid bk-grid-row bk-layout-fixed" style="position: relative; width: 1000px; height: 400px;"><div id="4CE41F34DA674BF9AAC47ADE3411BF6C" class="bk-widget-box bk-layout-fixed" style="width: 280px;"><div id="0222DB8D5DAE40A290D81F8CA82BD7E8" class="bk-widget bk-layout-fixed bk-slider"><label>Year:</label><div class="bk-slider-value">1970</div><div class="bk-noUi-target bk-noUi-ltr bk-noUi-horizontal"><div class="bk-noUi-base"><div class="bk-noUi-connect" style="background-color: rgb(230, 230, 230); left: 0%; right: 100%;"></div><div class="bk-noUi-origin" style="left: 0%;"><div class="bk-noUi-handle bk-noUi-handle-lower" data-handle="0" tabindex="0" role="slider" aria-orientation="horizontal" aria-valuemin="0.0" aria-valuemax="100.0" aria-valuenow="0.0" aria-valuetext="1970.00" style="z-index: 4;"><div class="bk-noUi-tooltip" style="">1970</div></div></div></div></div></div><div id="8E946E34C0434D1CB687629CBDBEEF71" class="bk-widget bk-layout-fixed"><label for="1064">x-axis data</label><select class="bk-widget-form-input" id="1064"><option selected="true" value="fertility">fertility</option><option value="life">life</option><option value="child_mortality">child_mortality</option><option value="gdp">gdp</option></select></div><div id="E0C283F8196240DE92EB0C15F2D18428" class="bk-widget bk-layout-fixed"><label for="1065">y-axis data</label><select class="bk-widget-form-input" id="1065"><option value="fertility">fertility</option><option selected="true" value="life">life</option><option value="child_mortality">child_mortality</option><option value="gdp">gdp</option></select></div><div id="81FDDC69D769463B960117AD103F6B4F" class="bk-widget bk-layout-fixed"><label for="1067">Region</label><select class="bk-widget-form-input" id="1067"><option selected="true" value="all">all</option><option value="South Asia">South Asia</option><option value="Europe &amp; Central Asia">Europe &amp; Central Asia</option><option value="Middle East &amp; North Africa">Middle East &amp; North Africa</option><option value="Sub-Saharan Africa">Sub-Saharan Africa</option><option value="America">America</option><option value="East Asia &amp; Pacific">East Asia &amp; Pacific</option></select></div><div id="796055141656436581A2FB7B360A9093" class="bk-widget bk-layout-fixed"><div class="bk-bs-radio"><label><input type="radio" name="3CE7B41372944F709178B94754DFD4AA" value="0">top_left</label></div><div class="bk-bs-radio"><label><input type="radio" name="3CE7B41372944F709178B94754DFD4AA" value="1">top_right</label></div><div class="bk-bs-radio"><label><input type="radio" name="3CE7B41372944F709178B94754DFD4AA" value="2">bottom_left</label></div><div class="bk-bs-radio"><label><input type="radio" name="3CE7B41372944F709178B94754DFD4AA" value="3">bottom_right</label></div></div></div><div id="AE291E9125BD4387AF03B1AFCDF93446" class="bk-plot-layout bk-layout-fixed" style="position: relative; width: 700px; height: 400px;"><div id="61ABBD0557544FC2B041A102DEC9DD76" class="bk-plot-wrapper" style="position: absolute; left: 0px; top: 0px; width: 700px; height: 400px;"><div id="93002D8B00F340C1A4CEB09C01CB0342" class="bk-canvas-wrapper" style="width: 700px; height: 400px; cursor: default;"><canvas class="bk-canvas" width="1575" height="900" style="width: 700px; height: 400px;"></canvas><div class="bk-canvas-overlays"><div id="17DF7207CE834B5C8056E616B590041D" class="bk-shading" style="display: none;"></div><div id="D890BCE60ED14FD49AC9656B736BA20B" class="bk-shading" style="display: none;"></div><div id="E67A8D7359CE41AF91637CE27A86CA95" class="bk-tooltip" style="display: none;"></div></div><div class="bk-canvas-events" style="touch-action: none; user-select: none; -webkit-user-drag: none; -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"><div id="BDDD5BA249CE4346BDBEC87861C950F6" style="position: absolute; left: 670px; top: 29px; width: 30px; height: 326px; overflow: hidden;"><div id="5F638D2BD8C648649512867102E98AC9" class="bk-toolbar bk-toolbar-right"><a href="https://bokeh.pydata.org/" target="_blank" class="bk-logo bk-logo-small"></a><div class="bk-button-bar"><div id="C34BCEFD630A49378632343E78A6BAAA" class="bk-toolbar-button bk-tool-icon-pan bk-active" title="Pan"></div><div id="47DDD686ACCE4CFC8BF35258B678728F" class="bk-toolbar-button bk-tool-icon-lasso-select" title="Lasso Select"></div><div id="4EC41C181CC045B385DB05DD926DB8C5" class="bk-toolbar-button bk-tool-icon-box-zoom" title="Box Zoom"></div><div id="4ACC8C1CC30844B190C6D8C17F959C1F" class="bk-toolbar-button bk-tool-icon-box-select" title="Box Select"></div></div><div class="bk-button-bar"><div id="510135261D8F4E2CB833B0F8E81503BD" class="bk-toolbar-button bk-tool-icon-wheel-zoom" title="Wheel Zoom"></div></div><div class="bk-button-bar"><div id="D965859D208040BFA181785911FACF01" class="bk-toolbar-button bk-tool-icon-reset" title="Reset"></div></div><div class="bk-button-bar"><div id="5E9295CE13A64F9D93327D9244815740" class="bk-toolbar-button bk-tool-icon-hover bk-active" title="Hover"></div></div><div class="bk-button-bar"><div id="90CF5B986CF3451AAAA507F6C8EDA9CD" class="bk-toolbar-button bk-tool-icon-help" title="Click the question mark to learn more about Bokeh plot tools."></div></div></div></div></div></div></div></div></div></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="1100">
+          {}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('1100').textContent;
+                  var render_items = [{"roots":{"1069":"70f6f734-1370-4aa1-9995-2fd7cdd9dcf9"},"sessionid":"jMfV345ZB9evD4Hxox1DSTYh4IZK1wOmiaPKiFIlWLnn","use_for_title":true}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        embed_document(root);
+                        clearInterval(timer);
+                      }
+                      attempts++;
+                      if (attempts > 100) {
+                        console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        clearInterval(timer);
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  
+  
+</body></html>
