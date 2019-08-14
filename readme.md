@@ -19,7 +19,9 @@ _Note: Data used in the projects (accessed under Datasets) is for demonstration 
 
 
 - ### Data Analysis and Visualisation
-
+	- __Python__
+	- [Bokeh Library and Gapminder Visualization](https://nbviewer.jupyter.org/github/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Interactive%20Data%20Visualization%20with%20Bokeh.ipynb): An introduction to the Bokeh library for creating interactive visuals. 
+	
 	- __R__ 
 		- [Storm Data Analysis](https://rpubs.com/piazzara88/148657): An analysis of NOAA storm data for events which cause the greatest impact by health effects and by economic loss.
 	
