@@ -1,0 +1,152 @@
+import re
+def chapterImport():
+    """Expand all text on course overview page, starting with the first '1' icon down to the last 50 xp number.
+    Copy and paste it into the Chapter_content.txt file in the data folder.
+    Run this function and it will print out all your headings. 
+    Use the 'Ctrl+shift+-' keyboard shortcut to split each heading to a new cell."""
+    import re
+    string = open('data/Chapter_content.txt', 'r').read()
+    lines = string.split('\n')
+    chapters = []
+    descriptions = []
+    for index, line in enumerate(lines):
+        try:
+            print('# Chapter - ',re.search('^\d+$', line).group(), lines[index+1])
+            chapters +=[index, index+1]
+        except:
+            pass
+        if index not in chapters:
+            if '%' in line:
+                print(lines[index+1])
+                descriptions +=[index, index+1]
+            if 'Icon' in line and 'xp' in lines[index+2]:
+                print('## '+lines[index+1])
+                if 'interactive' in line:
+                    print(' ')
+    return
+chapterImport()
+
+import re
+def t2():
+    '''This prettifies most data on datacamps exercise pages into markdown from html. 
+    It relies on two copies and pastes into the text file page_content.
+    Right click the exercise or instructions text in the window, click inspect, 
+    select the header that encapsulates all the text for that section (usually div or ul)
+    copy that element with ctrl+c and paste into the text file
+    run this function and it will print out the properly formatted data
+    '''
+    string = open('data/page_content.txt', 'r').read()
+    hyperlinks = re.findall("<a.*?>.*?</a>", string)
+    formatted = []
+    for link in hyperlinks:
+        text = re.sub('<a.*?>', '', re.sub('</a>', '', link))
+        link = re.sub('<a.*?"', '', re.sub('" target.*', '', link))
+        formatted += ['['+text+']'+'('+link+')']
+        string = string.replace(re.search("<a.*?>.*?</a>", string).group(), '['+text+']'+'('+link+')',1)
+    string = re.sub('<li.*?>', '- ', string)
+    string = re.sub('</p.*?></div.*?>', '</li></li>---</li>', string)
+    delete = ['</h1>', '</h2>', '</h3>', '</h4>', '</h5>','<p>', '</p>','</?ul.*?>', '</?label.*?>', '</?input.*?>', '</?span.*?>', '</?div.*?>', '</?math.*?>','<msup.*?/msup>', '<nobr.*?/nobr>', '" role="presentation" style="position: relative;">', 'press\d']
+    for el in delete:
+        string = re.sub(el, '', string) 
+    string = string.replace('<h1.*?>', '# ').replace('<h2.*?>', '## ').replace('<h3.*?>', '### ').replace('<h4.*?>', '#### ').replace('<h5.*?>', '##### ')
+    string = string.replace('<pre><code>', '```</li>').replace('</code></pre>', '```</li>')
+    string = string.replace('<blockquote>','```</li>').replace('</blockquote>', '```</li>')
+    string = re.sub('<script type="math/tex" id="MathJax.*?>', '$', string)
+    string = re.sub('</script>', '$', string)
+    string = string.replace('<code>', '`').replace('</code>', '`')
+    string = string.replace('<em>', '*').replace('</em>', '*')
+    string = string.replace('<b>', '**').replace('</b>', '**')
+    string = string.replace('<strong>', '**').replace('</strong>', '**')
+    string = string.replace('&lt;', '<').replace('&gt;', '>')
+    string = string.split('</li>')
+    for i in string:
+        print(i)
+    return 
+t2()
+
+import requests
+from bs4 import BeautifulSoup
+
+import re
+def t():
+    '''This prettifies most data on datacamps exercise pages into markdown from html. 
+    It relies on two copies and pastes into the text file page_content.
+    Right click the exercise or instructions text in the window, click inspect, 
+    select the header that encapsulates all the text for that section (usually div or ul)
+    copy that element with ctrl+c and paste into the text file
+    run this function and it will print out the properly formatted data
+    '''
+    with open('data/page.txt') as file:
+        page = file.read()
+    #soup = BeautifulSoup(html_doc)
+    soup = BeautifulSoup(page)
+    string = ''
+    exercise_tags = soup.find_all("div", {"class": "exercise--assignment"})
+    instructions_tags = soup.find_all("div", {"class": "exercise--instructions"})
+    try:
+        string += str(exercise_tags[0].find_all("div")[0])
+    except:
+        pass
+    try:
+        string += str(instructions_tags[0])
+    except:
+        pass
+
+    #string = open('data/page_content.txt', 'r').read()
+    hyperlinks = re.findall("<a.*?>.*?</a>", string)
+    formatted = []
+    for link in hyperlinks:
+        text = re.sub('<a.*?>', '', re.sub('</a>', '', link))
+        link = re.sub('<a.*?"', '', re.sub('" target.*', '', link))
+        formatted += ['['+text+']'+'('+link+')']
+        string = string.replace(re.search("<a.*?>.*?</a>", string).group(), '['+text+']'+'('+link+')',1)
+    string = re.sub('<li.*?>', '- ', string)
+    string = re.sub('</p.*?></div.*?>', '</li></li>---</li>', string)
+    string = string.replace('</p>\n<p>', '</p></li></li><p>')
+    delete = ['<p>', '</p>','</?ul.*?>', '</?label.*?>', '</?input.*?>', '</?span.*?>', '</?div.*?>', '</?math.*?>','<msup.*?/msup>', '<nobr.*?/nobr>', '" role="presentation" style="position: relative;">', 'press\d', '<button.*?/button>', '<svg.*?/svg>']
+    for el in delete:
+        string = re.sub(el, '', string) 
+    newLine = ['</h1>', '</h2>', '</h3>', '</h4>', '</h5>']
+    for el in newLine:
+        string = re.sub(el, '</li>', string)
+    for i in range(1,7):
+        string = re.sub('<h'+str(i)+'.*?>', '#'*i+' ', string)
+    string = string.replace('<pre><code>', '```</li>').replace('</code></pre>', '```</li>')
+    string = string.replace('<blockquote>','```</li>').replace('</blockquote>', '```</li>')
+    string = re.sub('<script type="math/tex" id="MathJax.*?>', '$', string)
+    string = re.sub('</script>', '$', string)
+    string = string.replace('<code>', '`').replace('</code>', '`')
+    string = string.replace('<em>', '*').replace('</em>', '*')
+    string = string.replace('<b>', '**').replace('</b>', '**')
+    string = string.replace('<strong>', '**').replace('</strong>', '**')
+    string = string.replace('&lt;', '<').replace('&gt;', '>')
+    string = string.replace('\\n', '</li>\\n\\n</li>')
+    string = string.replace('[Take Hint (-15 XP)](exercise--show-hint" data-cy="exercise-show-hint" href="javascript:void(0)">Take Hint (-15 XP)</a>)', '')
+    string = string.replace('[Take Hint (-30 XP)](exercise--show-hint" data-cy="exercise-show-hint" href="javascript:void(0)">Take Hint (-30 XP)</a>)', '')
+    string = string.replace('Hit `Submit Answer` to ', '')
+    string = string.replace('\" rel=\"noopener noreferrer', '')
+    string = string.split('</li>')
+    for i in string:
+        print(i)
+    return 
+def s(fileName):
+    '''Slide Parser'''
+    import PyPDF2
+    import re
+    pdfFileObj = open(fileName, 'rb')
+    pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
+    title = pdfReader.getPage(0).extractText().split('\n')[0].lower()
+    for i in range(pdfReader.numPages):
+        pageItems = pdfReader.getPage(i).extractText().split('\n')
+        for index, item in enumerate(pageItems):
+            if item.lower() != title:
+                if index == 1:
+                    item = "### "+ item
+                item = re.sub('^!', '- ', item)
+                item = re.sub(r"(\w+)!(\w+)", r"\1tt\2", item)
+                item = re.sub(r"Õ", '\'', item)
+                item = re.sub(r"Þ", 'fi', item)
+                print(item)
+    return
+
+s('slides/PandasFoundationsch1_slides.pdf')
