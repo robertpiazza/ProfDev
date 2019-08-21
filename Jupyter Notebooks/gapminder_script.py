@@ -48,8 +48,8 @@ plot.xaxis.axis_label ='Fertility (children per woman)'
 # Set the y-axis label
 plot.yaxis.axis_label = 'Life Expectancy (years)'
 
-axis_dict = {'life':'Life Expectancy (years)',
-             'fertility': 'Fertility (children per woman)', 
+axis_dict = {'life':'Life Expectancy at birth (years)',
+             'fertility': 'Children per woman(total fertility)', 
              'child_mortality': 'Child Mortality (0-5 year-olds dying per 1000 born)',
              'gdp': 'GDP (Gross Domestic Product)',
              'pop': 'Population'}
@@ -188,7 +188,7 @@ r_select.on_change('value', update_plot)
 
 # Create layout and add to current document
 layout = row(widgetbox(slider, x_select, y_select, r_select, l_select), plot)
-output_file('gapminder.html')
-show(layout)
-curdoc().add_root(layout)
+#output_file('gapminder.html')
 
+curdoc().add_root(layout)
+show(layout)

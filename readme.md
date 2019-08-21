@@ -7,6 +7,9 @@ _Note: Data used in the projects (accessed under Datasets) is for demonstration 
 
 ## Contents
 
+- ### Computer Vision
+	- [Applying Computer Vision to Solving a Jigsaw Puzzle](https://nbviewer.jupyter.org/github/robertpiazza/Puzzles/blob/master/PuzzleCompanion.ipynb): Using various computer vision methods and the OpenCV library to match puzzle pieces with a canvas. 
+
 - ### Machine Learning
 
 	- [Preprocessing Pipelines: Cleaning a diabetes dataset](https://github.com/robertpiazza/ProfDev/blob/master/Jupyter%20Notebooks/Preprocessing_Pipelines.ipynb)

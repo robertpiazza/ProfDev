@@ -1,0 +1,217 @@
+﻿{{Episode list
+ |EpisodeNumber   = 1
+ |EpisodeNumber2  = 1
+ |RTitle          = <center>''[[POM Wonderful LLC v. Coca-Cola Co.]]''
+ |Viewers         = 1.11<ref name="ep1ratings">{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/04/29/sunday-cable-ratings-game-of-thrones-wins-night-nba-playoffs-real-housewives-of-atlanta-mad-men-devious-maids-more/258458/ |title=Sunday Cable Ratings: 'Game of Thrones' Wins Night, NBA Playoffs, 'Real Housewives of Atlanta', 'Mad Men', 'Devious Maids' & More |last=Bibel |first=Sara |date=April 29, 2014 |work=[[TV by the Numbers]] |access-date=June 17, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|4|27}}
+ |ShortSummary    = ''Other segments:'' [[2014 Indian general election]] and the [[NSA]]<br />''Guest:'' [[Keith B. Alexander]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 2
+ |EpisodeNumber2  = 2
+ |RTitle          = <center>[[capital punishment in the United States|Capital punishment]]
+ |Viewers         = 1.19<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/05/06/sunday-cable-ratings-game-of-thrones-wins-night-real-housewives-of-atlanta-married-to-medicine-silicon-valley-more/260613/ |title=Sunday Cable Ratings: 'Game of Thrones' Wins Night, + 'Real Housewives of Atlanta', 'Married to Medicine', 'Silicon Valley' & More |last=Kondolojy |first=Amanda |date=May 6, 2014 |work=TV by the Numbers |access-date=June 17, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|5|4}}
+ |ShortSummary    = ''Other segments:'' [[Hassanal Bolkiah]]<br />''Guest:'' [[Simon Ostrovsky]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 3
+ |EpisodeNumber2  = 3
+ |RTitle          = <center>[[Global warming controversy]]
+ |Viewers         = 1.01<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/05/13/sunday-cable-ratings-game-of-thrones-wins-night-nba-playoffs-silicon-valley-bar-rescue-real-housewives-of-atlanta-mad-men-more/263258/ |title=Sunday Cable Ratings: 'Game of Thrones' Wins Night, NBA Playoffs, 'Silicon Valley', 'Bar Rescue', 'Real Housewives of Atlanta', 'Mad Men' & More |last=Bibel |first=Sara |date=May 13, 2014 |work=TV by the Numbers |access-date=June 17, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|5|11}}
+ |ShortSummary    = ''Other segments:'' [[United States Senate election in Kentucky, 2014]], [[Eurovision Song Contest 2014]]<br />''Guest:'' [[Bill Nye]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 4
+ |EpisodeNumber2  = 4
+ |RTitle          = <center>[[Right to be forgotten]] (''[[Google Spain v AEPD and Mario Costeja González]]'')
+ |Viewers         = 1.03<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/05/20/sunday-cable-ratings-game-of-thrones-wins-night-silicon-valley-real-housewives-of-atlanta-river-monsters-married-to-medicine-more/265704/ |title=Sunday Cable Ratings: 'Game of Thrones' Wins Night + 'Silicon Valley', 'Real Housewives of Atlanta', 'River Monsters', 'Married to Medicine' & More |last=Kondolojy |first=Amanda |date=May 20, 2014 |work=TV by the Numbers |access-date=June 17, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|5|18}}
+ |ShortSummary    = ''Other segments:'' [[General Motors]] controversy<br />''Guest:'' [[Fareed Zakaria]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 5
+ |EpisodeNumber2  = 5
+ |RTitle          = <center> [[net neutrality in the United States|Net neutrality]]
+ |Viewers         = 0.99<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/06/03/sunday-cable-ratings-game-of-thrones-wins-night-nhl-conference-finals-real-housewives-of-atlanta-kandis-wedding-silicon-valley-more/269702/ |title=Sunday Cable Ratings: 'Game of Thrones' Wins Night + NHL Conference Finals, 'Real Housewives of Atlanta: Kandi's Wedding', 'Silicon Valley' & More |last=Kondolojy |first=Amanda |date=June 3, 2014 |work=TV by the Numbers |access-date=June 16, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|6|1}}
+ |ShortSummary    = {{main|Net Neutrality (Last Week Tonight)#"Net Neutrality"}}
+''Other segments:'' [[87th Scripps National Spelling Bee]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 6
+ |EpisodeNumber2  = 6
+ |RTitle          = <center>[[FIFA]]
+ |Viewers         = 0.95<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/06/10/sunday-cable-ratings-game-of-thrones-wins-night-keeping-up-with-the-kardashians-devious-maids-veep-turn-more/271830/ |title=Sunday Cable Ratings: 'Game of Thrones' Wins Night, 'Keeping Up With the Kardashians', 'Devious Maids', 'Veep', 'Turn' & More |last=Bibel |first=Sara |date=June 10, 2014 |work=TV by the Numbers |access-date=June 16, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|6|8}}
+ |ShortSummary    = ''Other segments:'' [[Bashar al-Assad]]<br />''Guest:'' [[Right Said Fred]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 7
+ |EpisodeNumber2  = 7
+ |RTitle          = <center>[[Immigration reform]]
+ |Viewers         = 0.91<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/06/17/sunday-cable-ratings-game-of-thrones-wins-night-world-cup-soccer-keeping-up-with-the-kardashians-nascar-more/274033/ |title=Sunday Cable Ratings: 'Game of Thrones' Wins Night + World Cup Soccer, 'Keeping up with the Kardashians', NASCAR & More |last=Kondolojy |first=Amanda |date=June 17, 2014 |work=TV by the Numbers |access-date=June 23, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|6|15}}
+ |ShortSummary    = ''Other segments:'' [[Washington Redskins name controversy]]<br />''Guest:'' [[Stephen Hawking]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 8
+ |EpisodeNumber2  = 8
+ |RTitle          = <center>[[Mehmet Oz#June 2014 Senate hearing|Dr. Oz's June 2014 Senate hearing]] and the [[Dietary Supplement Health and Education Act of 1994]]
+ |Viewers         = 0.89<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/06/24/sunday-cable-ratings-world-cup-soccer-wins-night-true-blood-the-last-ship-falling-skiesdevious-maids-penny-dreadful-more/276323/ |title=Sunday Cable Ratings: World Cup Soccer Wins Night, 'True Blood', 'The Last Ship', 'Falling Skies','Devious Maids', 'Penny Dreadful' & More |last=Bibel |first=Sara |date=June 24, 2014 |work=TV by the Numbers |access-date=June 28, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|6|22}}
+ |ShortSummary    = ''Other segments:'' [[Monarchy|Monarchies]]<br />''Guest:'' [[Steve Buscemi]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 9
+ |EpisodeNumber2  = 9
+ |RTitle          = <center>''[[Burwell v. Hobby Lobby]]''
+ |Viewers         = 0.85<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/07/01/sunday-cable-ratings-bet-awards-leads-night-world-cup-soccer-true-blood-keeping-up-with-the-kardashians-the-last-ship-more/278245/ |title=Sunday Cable Ratings: 'BET Awards' Leads Night + World Cup Soccer, 'True Blood', 'Keeping Up With the Kardashians', 'The Last Ship' & More |last=Kondolojy |first=Amanda |date=July 1, 2014 |work=TV by the Numbers |access-date=July 1, 2014 |archive-url=https://web.archive.org/web/20140707023817/http://tvbythenumbers.zap2it.com/2014/07/01/sunday-cable-ratings-bet-awards-leads-night-world-cup-soccer-true-blood-keeping-up-with-the-kardashians-the-last-ship-more/278245/ |archive-date=July 7, 2014 |dead-url=yes}}</ref>
+ |OriginalAirDate = {{Start date|2014|6|29}}
+ |ShortSummary    = ''Other segments:'' [[LGBT rights in Uganda]]<br />''Guest:'' [[Pepe Julian Onziema]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 10
+ |EpisodeNumber2  = 10
+ |RTitle          = <center>[[income inequality in the United States|Income inequality]] and [[wealth inequality in the United States|wealth inequality]]
+ |Viewers         = 0.84<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/07/15/sunday-cable-ratings-true-blood-tops-night-the-strain-keeping-up-with-the-kardashians-the-last-ship-more/282694/ |title=Sunday Cable Ratings: 'True Blood' Tops Night + 'The Strain', 'Keeping Up With the Kardashians', 'The Last Ship' & More |last=Kondolojy |first=Amanda |date=July 15, 2014 |work=TV by the Numbers |access-date=July 16, 2014 |archive-url=https://web.archive.org/web/20140717185623/http://tvbythenumbers.zap2it.com/2014/07/15/sunday-cable-ratings-true-blood-tops-night-the-strain-keeping-up-with-the-kardashians-the-last-ship-more/282694/ |archive-date=July 17, 2014 |dead-url=yes}}</ref>
+ |OriginalAirDate = {{Start date|2014|7|13}}
+ |ShortSummary    = ''Other segments:'' Public image of [[Central Intelligence Agency|CIA]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 11
+ |EpisodeNumber2  = 11
+ |RTitle          = <center>[[Incarceration in the United States]]
+ |Viewers         = 0.92<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/07/22/sunday-cable-ratings-true-blood-wins-night-the-last-ship-the-strain-witches-of-east-end-ray-donovan-more/284905/ |title=Sunday Cable Ratings: 'True Blood' Wins Night, 'The Last Ship', 'The Strain', 'Witches of East End', 'Ray Donovan' & More |last=Bibel |first=Sara |date=July 22, 2014 |work=TV by the Numbers |access-date=July 22, 2014 |archive-url=https://web.archive.org/web/20140729131414/http://tvbythenumbers.zap2it.com/2014/07/22/sunday-cable-ratings-true-blood-wins-night-the-last-ship-the-strain-witches-of-east-end-ray-donovan-more/284905/ |archive-date=July 29, 2014 |dead-url=yes}}</ref>
+ |OriginalAirDate = {{Start date|2014|7|20}}
+ |ShortSummary    = ''Other segments:'' [[Israeli–Palestinian conflict]], [[Commonwealth Games]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 12
+ |EpisodeNumber2  = 12
+ |RTitle          = <center>[[Nuclear weapons and the United States]]
+ |Viewers         = 1.00<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/07/29/sunday-cable-ratings-true-blood-leads-night-nascar-keeping-up-with-the-kardashians-the-last-ship-the-strain-more/287182/ |title=Sunday Cable Ratings: 'True Blood' Leads Night + NASCAR, 'Keeping Up With the Kardashians', 'The Last Ship', 'The Strain' & More |last=Kondolojy |first=Amanda |date=July 29, 2014 |work=TV by the Numbers |access-date=July 29, 2014 |archive-url=https://web.archive.org/web/20140729183816/http://tvbythenumbers.zap2it.com/2014/07/29/sunday-cable-ratings-true-blood-leads-night-nascar-keeping-up-with-the-kardashians-the-last-ship-the-strain-more/287182/ |archive-date=July 29, 2014 |dead-url=yes}}</ref>
+ |OriginalAirDate = {{Start date|2014|7|27}}
+ |ShortSummary    = ''Other segments:'' Russia's miscommunication with [[Foton-M No.4|mating geckos lost in space]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 13
+ |EpisodeNumber2  = 13
+ |RTitle          = <center>[[Native advertising]]
+ |Viewers         = 0.96<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/08/05/sunday-cable-ratings-true-blood-wins-night-the-strain-keeping-up-with-the-kardashians-the-last-ship-the-leftovers-falling-skies-more/290087/ |title=Sunday Cable Ratings: 'True Blood' Wins Night, 'The Strain', 'Keeping Up With The Kardashians', 'The Last Ship', 'The Leftovers', 'Falling Skies' & More |last=Bibel |first=Sara |date=August 5, 2014 |work=TV by the Numbers |access-date=August 6, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|8|3}}
+ |ShortSummary    = ''Other segments:'' [[Argentine debt restructuring]], [[Port Authority of New York and New Jersey]] and [[Port Authority Bus Terminal]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 14
+ |EpisodeNumber2  = 14
+ |RTitle          = <center>[[payday loans in the United States|Payday loans]]
+ |Viewers         = 0.94<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/08/12/sunday-cable-ratings-shark-of-darkness-wrath-of-submarine-tops-night-true-blood-air-jaws-nascar-more/292232/ |title=Sunday Cable Ratings: 'Shark of Darkness: Wrath of Submarine' Tops Night + 'True Blood', 'Air Jaws', NASCAR & More |last=Kondolojy |first=Amanda |date=August 12, 2014 |work=TV by the Numbers |access-date=August 12, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|8|10}}
+ |ShortSummary    = ''Other segments:'' Russia's import embargo on U.S. chicken and soybean<br />''Guest:'' [[Sarah Silverman]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 15
+ |EpisodeNumber2  = 15
+ |RTitle          = <center>[[Shooting of Michael Brown]] and [[police militarization]]
+ |Viewers         = 1.03<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/08/19/sunday-cable-ratings-true-blood-wins-night-keeping-up-with-the-kardashians-the-strain-the-last-ship-the-leftovers-more/294318/ |title=Sunday Cable Ratings: 'True Blood' Wins Night, 'Keeping Up With the Kardashians', 'The Strain', 'The Last Ship', 'The Leftovers' & More |last=Bibel |first=Sara |date=August 19, 2014 |work=TV by the Numbers |access-date=August 20, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|8|17}}
+ |ShortSummary    = ''Other segments:'' [[Equal pay for equal work]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 16
+ |EpisodeNumber2  = 16
+ |RTitle          = <center>[[Student debt]]
+ |Viewers         = 0.66<ref>{{Cite web |url=http://www.showbuzzdaily.com/articles/showbuzzdailys-top-25-sunday-cable-originals-9-7-2014-and-saturday-9-6-2014.html |title=SHOWBUZZDAILY's Top 25 Sunday Cable Originals: 9.7.2014 (and Saturday 9.6.2014) |last=Metcalf |first=Mitch |date=September 9, 2014 |website=ShowBuzzDaily |access-date=April 14, 2015}}</ref>
+ |OriginalAirDate = {{Start date|2014|9|7}}
+ |ShortSummary    = ''Other segments:'' Eulogy for [[Foton-M No.4|mating space geckos]]<br />''Guest:'' [[A Great Big World]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 17
+ |EpisodeNumber2  = 17
+ |RTitle          = <center>[[2014 Scottish independence referendum|Scottish independence referendum]]
+ |Viewers         = 0.70<ref>{{Cite news |url=http://www.showbuzzdaily.com/articles/showbuzzdailys-top-25-sunday-cable-originals-9-14-2014.html |title=SHOWBUZZDAILY's Top 25 Sunday Cable Originals (& Network Update) : 9.14.2014 |last=Metcalf |first=Mitch |date=September 16, 2014 |work=ShowBuzzDaily |access-date=November 12, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|9|14}}
+ |ShortSummary    = ''Other segments:'' [[Twitter]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 18
+ |EpisodeNumber2  = 18
+ |RTitle          = <center>[[United States embargo against Cuba]], [[Miss America 2015]]
+ |Viewers         = 0.83<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/09/23/sunday-cable-ratings-the-strain-tops-night-naked-and-afraid-boardwalk-empire-real-housewives-of-new-jersey-more/305874/ |title=Sunday Cable Ratings: 'The Strain' Tops Night + 'Naked and Afraid', 'Boardwalk Empire', 'Real Housewives of New Jersey' + More |last=Kondolojy |first=Amanda |date=September 23, 2014 |work=TV by the Numbers |access-date=September 23, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|9|21}}
+ |ShortSummary    = ''Guest:'' [[Kathy Griffin]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 19
+ |EpisodeNumber2  = 19
+ |RTitle          = <center>[[Unmanned aerial vehicle|Drones]]
+ |Viewers         = 0.71<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/09/30/sunday-cable-ratings-the-strain-real-housewives-of-new-jersey-win-night-boadwalk-empire-ray-donovan-total-divas-wiches-of-east-end-more/308474/ |title=Sunday Cable Ratings: 'The Strain' & 'Real Housewives of New Jersey' Win Night, 'Boadwalk Empire', 'Ray Donovan', 'Total Divas', 'Wiches of East End' & More |last=Bibel |first=Sara |date=September 30, 2014 |work=TV by the Numbers |access-date=September 30, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|9|28}}
+ |ShortSummary    = ''Other segments:'' Kansas state budget shortfall
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 20
+ |EpisodeNumber2  = 20
+ |RTitle          = <center>[[asset forfeiture|Civil Asset Forfeiture]]
+ |Viewers         = 0.66<ref>{{Cite news |url=http://www.showbuzzdaily.com/articles/showbuzzdailys-top-25-sunday-cable-originals-10-5-2014.html |title=SHOWBUZZDAILY's Top 25 Sunday Cable Originals (& Network Update) : 10.5.2014 |last=Metcalf |first=Mitch |date=October 7, 2014 |work=ShowBuzzDaily |access-date=November 12, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|10|5}}
+ |ShortSummary    = ''Other segments:'' [[2022 Winter Olympics]]<br />''Guests:'' [[Jeff Goldblum]], [[Kathryn Erbe]], [[Robert John Burke]] and John Fiore
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 21
+ |EpisodeNumber2  = 21
+ |RTitle          = <center>[[Special Immigrant Visa]]
+ |Viewers         = 0.62<ref>{{Cite web |url=http://www.tvmediainsights.com/tv-ratings/sunday-final-ratings-peyton-manning-milestone-boosts-nbc/ |title=Sunday Final Ratings: Peyton Manning Milestone Boosts NBC |last=Pucci |first=Douglas |date=October 21, 2014 |website=TV Media Insights |access-date=June 6, 2015}}</ref>
+ |OriginalAirDate = {{Start date|2014|10|19}}
+ |ShortSummary    = ''Other segments:'' [[Supreme Court of the United States]]<br />''Guest:'' Mohammad Usafi<ref>{{Cite web |url=http://www.pri.org/stories/2014-09-11/heres-how-military-interpreter-made-it-danger-afghanistan-safety-us |title=Here's how a military interpreter made it from danger in Afghanistan to safety in the US |last=Campbell |first=Monica |date=September 11, 2014 |access-date=October 23, 2014}}</ref><ref>{{Cite web |url=http://blogs.cfr.org/davidson/2014/10/23/why-is-a-comedian-the-only-one-talking-about-the-plight-of-afghan-interpreters/ |title=Why Is a Comedian the Only One Talking About the Plight of Afghan Interpreters? |last=Davidson |first=Janine |date=October 23, 2014 |access-date=October 23, 2014 |deadurl=yes |archiveurl=http://webarchive.loc.gov/all/20150408143550/http://blogs.cfr.org/davidson/2014/10/23/why-is-a-comedian-the-only-one-talking-about-the-plight-of-afghan-interpreters/ |archivedate=April 8, 2015 |df=mdy-all }}</ref>
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 22
+ |EpisodeNumber2  = 22
+ |RTitle          = <center>[[Sugar]]
+ |Viewers         = 0.76<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/10/28/sunday-cable-ratings-the-walking-dead-wins-night-talking-dead-boardwalk-empire-real-housewives-of-new-jersey-homeland-more/319975/ |title=Sunday Cable Ratings: 'The Walking Dead' Wins Night, 'Talking Dead', 'Boardwalk Empire', 'Real Housewives of New Jersey', 'Homeland' & More |last=Bibel |first=Sara |date=October 28, 2014 |work=TV by the Numbers |access-date=October 28, 2014 |archive-url=https://web.archive.org/web/20141030205735/http://tvbythenumbers.zap2it.com/2014/10/28/sunday-cable-ratings-the-walking-dead-wins-night-talking-dead-boardwalk-empire-real-housewives-of-new-jersey-homeland-more/319975/ |archive-date=October 30, 2014 |dead-url=yes}}</ref>
+ |OriginalAirDate = {{Start date|2014|10|26}}
+ |ShortSummary    = ''Other segments:'' [[Doug Ford, Jr.]]<br />''Guest:'' [[Jane Goodall]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 23
+ |EpisodeNumber2  = 23
+ |RTitle          = <center>[[American Legislative Exchange Council]]
+ |Viewers         = 0.60<ref>{{Cite news |url=http://www.showbuzzdaily.com/articles/showbuzzdailys-top-25-sunday-cable-originals-11-2-2014.html |title=SHOWBUZZDAILY's Top 25 Sunday Cable Originals (& Network Update) : 11.2.2014 |last=Metcalf |first=Mitch |date=November 4, 2014 |work=ShowBuzzDaily |access-date=November 12, 2014}}</ref>
+ |OriginalAirDate = {{Start date|2014|11|2}}
+ |ShortSummary    = ''Other segments:'' [[State legislatures|U.S. state legislatures]] in [[2014 United States elections]]<br />''Guests:'' [[Nick Offerman]], [[H. Jon Benjamin]] and [[Sarah Baker]]
+ |LineColor       = 333333
+}}
+{{Episode list
+ |EpisodeNumber   = 24
+ |EpisodeNumber2  = 24
+ |RTitle          = <center>[[Lotteries in the United States|Lotteries]]
+ |Viewers         = 0.80<ref>{{Cite news |url=http://tvbythenumbers.zap2it.com/2014/11/11/sunday-cable-ratings-the-walking-dead-wins-night-talking-dead-real-housewives-of-atlanta-homeland-the-newsroom-more/325972/ |title=Sunday Cable Ratings: 'The Walking Dead' Wins Night, 'Talking Dead', 'Real Housewives of Atlanta', 'Homeland', 'The Newsroom' & More |last=Bibel |first=Sara |date=November 11, 2014 |work=TV by the Numbers}}</ref>
+ |OriginalAirDate = {{Start date|2014|11|9}}
+ |ShortSummary    = ''Other segments:'' [[Presidential Palace, Ankara|Turkey's Presidential Palace]], [[salmon]] cannon
+ |LineColor       = 333333
+}}
