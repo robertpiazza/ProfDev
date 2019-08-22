@@ -1,0 +1,461 @@
+﻿Encryption the best way to keep people
+from reading your email short of making
+a subject line forward forward forward
+forward hilarious joke from uncle Walter
+no one's reading that you may not think
+about encryption much but it is pretty
+fundamental to all our lives almost
+everything you do today uses a code
+every time you log on to an internet
+service like Twitter or Facebook and
+send your password every time you log
+into internet banking all of that
+information is protected using
+encryption code that's right
+encryption can protect the things most
+important to us our financial
+information health records dick pics
+trade secrets classified government
+records dick pics
+our physical location the physical
+location of our dicks credit card
+information dick pics and pictures of
+our dicks and and it's not just our data
+lots of things have computers in them
+now even cars and last year to hackers
+showed a writer from Wired how they
+could disable his car on the interstate
+do it kill the engine
+so we're killing the engine right now I
+turned on my hazard lights but I was
+still stuck in the right lane with no
+shoulder to escape onto he's panicking
+yeah no shit he's panicking you killed
+his engine on the freeway
+don't hackers seem like they've played
+so many video games they've forgotten
+that cars are actual objects carrying
+living people but while it can keep us
+safe it's important to note encryption
+also has a downside it's become so
+ubiquitous it's making it impossible for
+law enforcement to gain access to
+certain information or as FBI director
+James Comey puts it technology has
+become a tool of choice for some very
+dangerous people and unfortunately the
+law has not kept pace with technology
+and this disconnect has created the
+significant public safety problem we
+have long described as going dark yes
+going dark
+it's a deliberately ominous sounding
+term because you wouldn't get so scared
+if they just called it bad guy go
+bye-bye
+and you may have heard about this going
+dark problem recently related to one
+particular work iPhone belonging to Syed
+Farook the San Bernardino gunman who
+with his wife killed 14 people last
+December the FBI needs Apple's help
+because the security settings on the
+phone locked the device if a password is
+entered incorrectly too many times it
+may even erase all the data on the phone
+the FBI wants Apple to upload software
+that lets its analysts get around the
+security features and take as many shots
+at the passcode is necessary yes the FBI
+has a dead terrorist cell phone that
+they cannot get into it's running a
+newer version of Apple's operating
+system where the data is fully encrypted
+and can only be accessed by unlocking
+the passcode even Apple can't currently
+get into the phone so the government is
+essentially demanding that they come up
+with a cheat code for their top-selling
+iPhone game what's my passcode rated E
+for Everyone
+Apple is currently fighting that order
+in court arguing it shouldn't be forced
+to undermine the security features that
+protect its encryption an argument which
+some have found troubling I think Apple
+leadership risks having blood on their
+hands how would the hell you can't
+access a phone I just find baffling any
+system that would allow a terrorist to
+communicate with somebody in our country
+and we can't find out what they're
+saying is stupid wolf that is the
+angriest Lindsey Graham has been about a
+cell phone since his name got
+autocorrected to linty grandma stupid
+phone learn my name
+I am your boss
+stupid so dumb this this issue has even
+been brought up on the campaign trail
+with predictable results what I think
+you ought to do is boycott Apple until
+such time as they give that Security
+number how do you like I just thought it
+boy can't Apple oh I just love it
+give me another one Israel Palestine I
+make him wrestling those fake sumo
+costumes done done being president is
+easy but I will say this is a rare case
+where Donald Trump's outrage is almost
+understandable because Apple's refusal
+to help crack a terrorist phone can seem
+hard to defend especially when like John
+Miller of the NYPD you think about it
+incredibly simplistically there's no
+bang there's no safe company there's no
+fault
+there is no apartment there's no door
+that can't be penetrated with a lawful
+order from the US Court okay point taken
+but was penetrated to the best word
+choice there the government needs to be
+able to penetrate you at any time if we
+feel you need penetration we have to be
+able to penetrate you quickly and
+effectively here and now why is everyone
+getting so uptight about this but this
+is not simple it's a hugely complicated
+story with massive implications and once
+we get to the end of it you may not feel
+the same way that you do now because to
+that man's point an encrypted phone is
+not really like a bank or a safe if you
+penetrate a safe you've only penetrated
+that safe but a code to open a phone
+could be modified to open many many more
+phones a fact that does not escape Apple
+CEO Tim Cook no one I don't believe
+would want a master key built that would
+turn hundreds of millions of locks even
+if that key were in the possession of
+the person that you trust the most that
+key could be stolen the only way we know
+to get additional information is to
+write a piece of software that is the
+software equivalent of cancer okay now
+on one hand giving your phone cancer
+sounds bad but on the other hand The
+Fault in Our Stars would have been
+amazing if shailene woodley was playing
+a terminally-ill
+iPhone 6s no god damn it
+won't let you go hazel I'll hold down
+the power button and the home button
+simultaneously forever and to be clear
+Apple hasn't been completely
+uncooperative they've already given the
+FBI the information they could access
+including Farooq's iCloud backups from
+about six weeks before the attacks but
+they are refusing to create the
+cancerous program the FBI wants not
+because it can't be done they say it
+would take six to ten Engineers up to
+four weeks to do it or you know a
+standard Genius Bar appointment but but
+Apple worries that once they make that
+program they can't keep it a hundred
+percent safe and the FBI and its
+supporters can be weirdly dismissive of
+that issue in ways that indicate they
+either don't fully understand how
+technology works or are pretending not
+to what the government is asking Tim
+Cook is you designed it you can design
+your way out of it for this one time if
+you figure out the formula and crack
+open this phone to the point that we can
+then try codes against it you can tear
+that formula up lots of cross it in the
+fireplace and throw it away oh come on
+you know Apple is not writing its code
+on paper next to a fireplace they're a
+cutting-edge technology company not Lord
+Grantham and and as for the notion Apple
+can throw the formula away after the FBI
+uses it once nobody seriously thinks
+that is going to happen Apple says if it
+complies requests from law enforcement
+could come for another phone an hour
+later opening a Pandora's box
+Apple officials pointed to the Manhattan
+district attorney who says he has 175
+iPhones with potential evidence from
+serious crimes including murder that he
+cannot open exactly there are over 175
+other phones in line just in New York so
+this is bound to set a precedent think
+of the government as your dad if he asks
+you to help him with his iPhone be
+careful because if you do it once you're
+gonna be doing it 14 times a day and
+whatever happens in this case will have
+ramifications because the FBI ultimately
+wants Apple and the entire tech industry
+to have its encryption always be weak
+enough that the company can access
+customer's data if law enforcement needs
+it so it might be the iPhone today an
+Android phone tomorrow
+and to blackberry the day after that
+assuming that the day after that is in
+1998 and and you might be wondering but
+look if there's a warrant do these
+companies really have a choice to which
+the answer surprisingly might be yes
+they do the government is currently
+citing the all writs Act of 1789 which
+essentially mandates you must cooperate
+with investigators if they ask you to do
+something but courts are split over
+whether it applies in cases like these
+and there's not really any more recent
+law covering this area which is not
+entirely an accident because we have
+been down this road before the
+government grappled with encryption two
+decades ago and in the early 90s they
+even came up with what they thought
+would be the ideal solution the
+government will press private companies
+to use a so called
+Clipper Chip in their computers which
+would allow authorities to monitor coded
+messages now that clipper chip was
+theoretically perfect your information
+could be encrypted but the government
+would have an access point when it
+needed it it was like giving your house
+key to a trusted neighbor you can trust
+Mike he's only gonna try on your
+underwear if it's absolutely necessary
+there was just one problem with that
+chip a computer scientist and hacker
+named Matt Blais figured out a way to
+disable the government access feature of
+the chip and the whole project was
+eventually abandoned and by the way is
+there a more ninety series of words than
+a hacker named Matt Blais it's gotta be
+right up there with talk to the hand
+Furby and Grammy Award winners milli
+vanilli but thanks to the Clipper Chip
+Fiasco and strong pressure from tech
+companies the government backed off
+eventually abandoning the push for a
+perfect backdoor but decades later they
+seem to have convinced themselves that
+it can be done
+I believe that Apple's capabilities are
+remarkable when it is their desire I
+think Silicon Valley is full of great
+people who when they were younger
+we're told your dreams are too hard they
+were standing in a garage someplace they
+were told can't be done thank goodness
+they didn't listen I hate to hear talk
+like that cannot be done I mean think
+about if Jack Kennedy said we can't go
+to the moon that cannot be done he said
+something else we're gonna get there
+in the next decade okay listen I love
+that optimism but for the record there
+are lots of things we can't do even
+though we've been to the moon for
+example we are yet to master time travel
+or figure out why Hulk Hogan dresses for
+court like he's a pallbearer at a boa
+constrictors view those still elude
+human understanding and to some extent
+the government's faith in Apple's magic
+powers is the company's own fault after
+all their ads have linked them to
+Einstein and Gandhi and they sell the
+most mundane aspects of their products
+as world changes this is iPhone 6s not
+much has changed except it responds to
+the pressure of your finger now you can
+change apps like this pay up more places
+like this and blue color looks like this
+it's rose gold it's awesome
+oh no it is not rose gold
+looks like someone vomited a salmon
+dinner onto a pair of dirty ballet shoes
+but ads like those obscure the real
+truth about Apple which is that beneath
+their shiny rose gold surface they like
+any other software company are
+incredibly susceptible to hackers who
+are constantly finding flaws in their
+security features right now you can buy
+boxes like this one on eBay that can
+hack you into an iphone running some
+versions of iOS 8 or lower just watch
+this YouTube video showing you how they
+work you just attach the wire to the
+screen adjust a few settings let it
+cycle through pass codes and eventually
+you are in an Apple understandably do
+not want us thinking too much about that
+scary security flaws is one of those
+three word phrases they absolutely hate
+to be associated with like corporate tax
+avoidance or Factory suicide Nets
+also when Apple argues that if it's
+forced to have access to all its
+customers encrypted data it can't 100%
+guarantee its safety most computer
+scientists agree or as matt blazed the
+guy who hacks the Clipper Chip put it
+when I hear the it if we can put a man
+on the moon
+we can do this I'm hearing an analogy
+almost as if we're saying if we can put
+a man on the moon well surely we can put
+a man on the Sun and that is a rational
+scientific view just because a man can
+walk on the moon does not mean he might
+as well be walking on the Sun appoint
+sunrise recently in the New England
+Journal of smashmouth but look but look
+for the sake of argument let's assume
+Apple could have access to your
+encrypted data repeatedly help law
+enforcement and always keep the bad guys
+out which again is widely thought by
+experts to be impossible that still
+won't solve the FBI's going dark problem
+because if you really want to keep your
+communication secret there's an app for
+that the encryption debate is proven to
+be good business for one startup
+telegram a messaging app that encrypts
+messages end-to-end has surpassed 100
+million users and that's the point
+people who want encryption will always
+be able to find it if it's not telegram
+or whatsapp it could be one of the more
+than 800 other encryption products out
+there almost two-thirds of which are
+made by companies not easily covered by
+US law like silent phone or three myrrh
+or snicker tea snack or mail grub now
+granted those last two aren't real but
+the point is they will be in five
+minutes if the government forces the
+other ones to weaken their encryption
+and that might not be the only
+unintended consequence of the FBI's
+actions many countries around the world
+including Russia and China are watching
+this debate and will presumably expect
+similar access because as you know
+Russia and China have as much respect
+for privacy as horny teenagers in 80s
+comedies and when you consider all this
+the legal tenuous nathie FBI's case the
+security risks of creating a key the
+borderline impossibility of perfectly
+securing the key the International
+fallout of creating a precedent and the
+fact that the terrorists could
+circumvent all of this by downloading
+whatever the freemar is
+it's enough to sway the most strident
+opinion case-in-point remember Lindsey
+Graham mr. this is stupid
+just this week three months after he
+said that he was in a hearing with the
+Attorney General Loretta Lynch about
+this subject and this happened I think
+that for us the issue is about a
+criminal investigation into a terrorist
+act and the need to obtain evidence and
+but it's just not so simple and I'll end
+with this I thought it was that simple I
+was all with you until I actually
+started getting briefed by people in the
+Intel community and I will say I'm a
+person who's been moved by the arguments
+of the president we said and the damage
+we may be doing to our own national
+security it's a miracle
+Lindsey Graham has met the concept of
+nuance and this is a man who once warned
+the world is literally about to blow up
+so you're not dealing with someone who
+likes to dabble with gray areas and look
+there is no easy side to be on in this
+debate strong encryption has its costs
+from protecting terrorists to drug
+dealers to child pornographers but I
+happen to feel that the risks of
+weakening encryption even a little bit
+even just for the government are
+potentially much worse and even though
+I'm on Apple side in this case I do
+think they would help both their
+customers and the government understand
+this a lot better if they were a little
+more honest regarding security in their
+ads hi we're Apple this is an Apple
+iPhone it comes in rose gold it's
+awesome this is an Apple customer hey
+Siri find vegan sushi mmm sounds good
+and these are the engineers who make our
+products hey hey guys we can help you
+communicate celebrate pay for stuff
+everything but here's something you
+should know we're barely one step ahead
+of hackers at all times that when you
+idiots lose your phone your information
+doesn't wind up the hands of guys like
+Gary hey I'm Gary
+thanks for losing your phone dipshit hey
+Gary because if Gary can get in he has
+access to pictures of your food your
+bank account pretty much everything
+now I can masturbate to photos of your
+family okay Gary and when we find out
+there's a security flaw this is how we
+react yeah that's about right so when
+the FBI comes to us and asks if we can
+undermine our encryption without
+compromising everyone else's emails
+texts and skateboarding videos this is
+our response are you kidding me we're
+engineers not wizards you sure you're
+not wizards yeah pretty sure okay listen
+Apple's not perfect you need proof we
+made the Newton we made that one Mac
+that looks like a toaster we actually
+thought the Apple watch was cool
+wait this isn't cool oh shit we put a u2
+album on your phones you know the one
+you've been struggling to delete that
+thing keeps coming back huh and you
+can't even make our battery less more
+than like a day why is that exactly have
+you tried turning off location services
+and push emails and adjusting your
+screen brightness so that you can okay
+forget we asked the point is best-case
+scenario we can keep hackers out of your
+stuff for about six months before this
+happens again I'm back I see someone's
+been to the beach
+so please keep enjoying our products
+just know this shaky edifice could
+crumble at any moment
+Apple join us as we dance madly in the
+lip of the volcano
