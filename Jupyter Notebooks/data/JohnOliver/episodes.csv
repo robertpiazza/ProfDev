@@ -1,168 +1,168 @@
-episodeNumber,name,Season,Season_episode,date,duration_seconds,description
-2,2_S1_E2_2014_5_4_Capital_Punishment.txt,1,2,5/4/2014,744,Capital Punishment
-4,4_S1_E4_2014_5_18_Right_To_Be_Forgotten_Google_Spain_V_AEPD_And_Mario_Costeja_González.txt,1,4,5/18/2014,420,Right To Be Forgotten Google Spain V AEPD And Mario Costeja González
-5,5_S1_E5_2014_6_1_Net_Neutrality.txt,1,5,6/1/2014,798,Net Neutrality
-6,6_S1_E6_2014_6_8_FIFA.txt,1,6,6/8/2014,794,FIFA
-8,8_S1_E8_2014_6_22_Dr_Ozs_June_2014_Senate_Hearing_And_The_Dietary_Supplement_Health_And_Education_Act_Of_1994.txt,1,8,6/22/2014,986,Dr Ozs June 2014 Senate Hearing And The Dietary Supplement Health And Education Act Of 1994
-9,9_S1_E9_2014_6_29_Burwell_V_Hobby_Lobby.txt,1,9,6/29/2014,370,Burwell V Hobby Lobby
-10,10_S1_E10_2014_7_13_Income_Inequality_And_Wealth_Inequality.txt,1,10,7/13/2014,850,Income Inequality And Wealth Inequality
-11,11_S1_E11_2014_7_20_Incarceration_In_The_United_States.txt,1,11,7/20/2014,1063,Incarceration In The United States
-12,12_S1_E12_2014_7_27_Nuclear_Weapons_And_The_United_States.txt,1,12,7/27/2014,922,Nuclear Weapons And The United States
-13,13_S1_E13_2014_8_3_Native_Advertising.txt,1,13,8/3/2014,683,Native Advertising
-14,14_S1_E14_2014_8_10_Payday_Loans.txt,1,14,8/10/2014,992,Payday Loans
-15,15_S1_E15_2014_8_17_Shooting_Of_Michael_Brown_And_Police_Militarization.txt,1,15,8/17/2014,910,Shooting Of Michael Brown And Police Militarization
-16,16_S1_E16_2014_9_7_Student_Debt.txt,1,16,9/7/2014,977,Student Debt
-17,17_S1_E17_2014_9_14_Scottish_Independence_Referendum.txt,1,17,9/14/2014,919,Scottish Independence Referendum
-18,18_S1_E18_2014_9_21_Miss_America_2015.txt,1,18,9/21/2014,925,Miss America 2015
-19,19_S1_E19_2014_9_28_Drones.txt,1,19,9/28/2014,777,Drones
-20,20_S1_E20_2014_10_5_Civil_Asset_Forfeiture.txt,1,20,10/5/2014,990,Civil Asset Forfeiture
-21,21_S1_E21_2014_10_19_Special_Immigrant_Visa.txt,1,21,10/19/2014,967,Special Immigrant Visa
-22,22_S1_E22_2014_10_26_Sugar.txt,1,22,10/26/2014,694,Sugar
-23,23_S1_E23_2014_11_2_American_Legislative_Exchange_Council.txt,1,23,11/2/2014,1038,American Legislative Exchange Council
-24,24_S1_E24_2014_11_9_Lotteries.txt,1,24,11/9/2014,876,Lotteries
-25,25_S2_E1_2015_2_8_Pharmaceutical_Marketing.txt,2,1,2/8/2015,1033,Pharmaceutical Marketing
-26,26_S2_E2_2015_2_15_Tobacco.txt,2,2,2/15/2015,1091,Tobacco
-27,27_S2_E3_2015_2_22_Judicial_Elections.txt,2,3,2/22/2015,807,Judicial Elections
-28,28_S2_E4_2015_3_1_Infrastructure.txt,2,4,3/1/2015,1274,Infrastructure
-29,29_S2_E5_2015_3_8_Voting_Rights_In_The_U_S_Territories.txt,2,5,3/8/2015,792,Voting Rights In The U S Territories
-30,30_S2_E6_2015_3_15_National_Collegiate_Athletic_Association.txt,2,6,3/15/2015,1254,National Collegiate Athletic Association
-31,31_S2_E7_2015_3_22_Municipal_Violations.txt,2,7,3/22/2015,1075,Municipal Violations
-32,32_S2_E8_2015_4_5_Government_Surveillance.txt,2,8,4/5/2015,1994,Government Surveillance
-33,33_S2_E9_2015_4_12_Internal_Revenue_Service.txt,2,9,4/12/2015,1107,Internal Revenue Service
-34,34_S2_E10_2015_4_19_Patent_Trolls.txt,2,10,4/19/2015,664,Patent Trolls
-35,35_S2_E11_2015_4_26_Child_Labor_In_The_Fashion_Industry.txt,2,11,4/26/2015,1030,Child Labor In The Fashion Industry
-36,36_S2_E12_2015_5_3_Standardized_Testing.txt,2,12,5/3/2015,1082,Standardized Testing
-37,37_S2_E13_2015_5_10_Paid_Parental_Leave.txt,2,13,5/10/2015,741,Paid Parental Leave
-38,38_S2_E14_2015_5_17_Chicken_Contract_Farming.txt,2,14,5/17/2015,1102,Chicken Contract Farming
-39,39_S2_E15_2015_5_31_2015_FIFA_Corruption_Case.txt,2,15,5/31/2015,793,2015 FIFA Corruption Case
-40,40_S2_E16_2015_6_7_Bail.txt,2,16,6/7/2015,1070,Bail
-41,41_S2_E17_2015_6_14_Torture.txt,2,17,6/14/2015,913,Torture
-42,42_S2_E18_2015_6_21_Online_Harassment_And_Revenge_Porn.txt,2,18,6/21/2015,1010,Online Harassment And Revenge Porn
-43,43_S2_E19_2015_6_28_Transgender_Rights.txt,2,19,6/28/2015,1007,Transgender Rights
-44,44_S2_E20_2015_7_12_Stadiums.txt,2,20,7/12/2015,1148,Stadiums
-45,45_S2_E21_2015_7_19_Food_Waste.txt,2,21,7/19/2015,1070,Food Waste
-46,46_S2_E22_2015_7_26_Mandatory_Sentencing_In_The_United_States.txt,2,22,7/26/2015,925,Mandatory Sentencing In The United States
-47,47_S2_E23_2015_8_2_Washington_DC_Voting_Rights_And_Statehood_Movement.txt,2,23,8/2/2015,1023,Washington DC Voting Rights And Statehood Movement
-48,48_S2_E24_2015_8_9_Sex_Education_In_The_United_States.txt,2,24,8/9/2015,1265,Sex Education In The United States
-49,49_S2_E25_2015_8_16_Predatory_Churches_And_Televangelism.txt,2,25,8/16/2015,1206,Predatory Churches And Televangelism
-50,50_S2_E26_2015_8_23_LGBT_Rights_In_The_United_States.txt,2,26,8/23/2015,886,LGBT Rights In The United States
-51,51_S2_E27_2015_9_13_Public_Defenders_In_The_United_States.txt,2,27,9/13/2015,900,Public Defenders In The United States
-52,52_S2_E28_2015_9_27_European_Migrant_Crisis.txt,2,28,9/27/2015,1076,European Migrant Crisis
-53,53_S2_E29_2015_10_4_Mental_Health_In_The_United_States.txt,2,29,10/4/2015,715,Mental Health In The United States
-54,54_S2_E30_2015_10_11_North_Dakota_Oil_Boom.txt,2,30,10/11/2015,1174,North Dakota Oil Boom
-55,55_S2_E31_2015_10_18_2015_Canadian_Federal_Election.txt,2,31,10/18/2015,921,2015 Canadian Federal Election
-56,56_S2_E32_2015_11_1_2015_Medicaid_Gap.txt,2,32,11/1/2015,845,2015 Medicaid Gap
-57,57_S2_E33_2015_11_8_Prisoner_Reentry.txt,2,33,11/8/2015,1125,Prisoner Reentry
-58,58_S2_E34_2015_11_15_Daily_Fantasy_Sports.txt,2,34,11/15/2015,1143,Daily Fantasy Sports
-59,59_S2_E35_2015_11_22_Penny_Manufacturing_Costs.txt,2,35,11/22/2015,576,Penny Manufacturing Costs
-60,60_S3_E1_2016_2_14_Voter_ID_Laws_In_The_United_States.txt,3,1,2/14/2016,849,Voter ID Laws In The United States
-61,61_S3_E2_2016_2_21_Abortion_In_The_United_States.txt,3,2,2/21/2016,961,Abortion In The United States
-62,62_S3_E3_2016_2_28_Donald_Trump_Presidential_Campaign_2016.txt,3,3,2/28/2016,1314,Donald Trump Presidential Campaign 2016
-63,63_S3_E4_2016_3_6_Special_Purpose_Districts.txt,3,4,3/6/2016,920,Special Purpose Districts
-64,64_S3_E5_2016_3_13_FBI_Apple_Encryption_Dispute.txt,3,5,3/13/2016,1081,FBI Apple Encryption Dispute
-65,65_S3_E6_2016_3_20_Proposal_For_A_Border_Wall_Between_The_U_S_And_Mexico.txt,3,6,3/20/2016,1113,Proposal For A Border Wall Between The U S And Mexico
-66,66_S3_E7_2016_4_3_Congressional_Fundraising.txt,3,7,4/3/2016,1285,Congressional Fundraising
-67,67_S3_E8_2016_4_10_Credit_Scores_In_The_United_States_Equifax_Experian_TransUnion_And_Background_Checks.txt,3,8,4/10/2016,1126,Credit Scores In The United States Equifax Experian TransUnion And Background Checks
-68,68_S3_E9_2016_4_17_Flint_Water_Crisis_And_Lead_Poisoning.txt,3,9,4/17/2016,1113,Flint Water Crisis And Lead Poisoning
-69,69_S3_E10_2016_4_24_Puerto_Rican_Government_Debt_Crisis.txt,3,10,4/24/2016,1282,Puerto Rican Government Debt Crisis
-70,70_S3_E11_2016_5_8_Scientific_Research_And_Science_Journalism.txt,3,11,5/8/2016,1168,Scientific Research And Science Journalism
-71,71_S3_E12_2016_5_15_911_Emergency_Telephone_Number.txt,3,12,5/15/2016,957,911 Emergency Telephone Number
-72,72_S3_E13_2016_5_22_Democratic_And_Republican_Presidential_Primaries_And_The_Primary_Process.txt,3,13,5/22/2016,868,Democratic And Republican Presidential Primaries And The Primary Process
-73,73_S3_E14_2016_6_5_Debt_Buying_Industry.txt,3,14,6/5/2016,1251,Debt Buying Industry
-74,74_S3_E15_2016_6_12_Retirement_Plans_And_Financial_Advisers.txt,3,15,6/12/2016,1290,Retirement Plans And Financial Advisers
-75,75_S3_E16_2016_6_19_2016_United_Kingdom_European_Union_Membership_Referendum.txt,3,16,6/19/2016,939,2016 United Kingdom European Union Membership Referendum
-76,76_S3_E17_2016_6_26_2016_Summer_Olympics_And_Doping_In_Sports.txt,3,17,6/26/2016,1233,2016 Summer Olympics And Doping In Sports
-77,77_S3_E18_2016_7_24_2016_Republican_National_Convention.txt,3,18,7/24/2016,692,2016 Republican National Convention
-78,78_S3_E19_2016_7_31_2016_Democratic_National_Convention.txt,3,19,7/31/2016,1090,2016 Democratic National Convention
-79,79_S3_E20_2016_8_7_Decline_Of_Newspapers_In_The_United_States.txt,3,20,8/7/2016,1163,Decline Of Newspapers In The United States
-80,80_S3_E21_2016_8_14_Car_Finance_And_Subprime_Lending.txt,3,21,8/14/2016,1076,Car Finance And Subprime Lending
-81,81_S3_E22_2016_8_21_Charter_Schools_In_The_United_States.txt,3,22,8/21/2016,1093,Charter Schools In The United States
-82,82_S3_E23_2016_9_25_Hillary_Clinton_S_Controversies_And_Donald_Trump_S_Controversies.txt,3,23,9/25/2016,1276,Hillary Clinton S Controversies And Donald Trump S Controversies
-83,83_S3_E24_2016_10_2_Police_Reform.txt,3,24,10/2/2016,1195,Police Reform
-84,84_S3_E25_2016_10_9_Guantanamo_Bay_Detention_Camp.txt,3,25,10/9/2016,1241,Guantanamo Bay Detention Camp
-85,85_S3_E26_2016_10_16_Jill_Stein_Presidential_Campaign_2016_And_Gary_Johnson_Presidential_Campaign_2016.txt,3,26,10/16/2016,1119,Jill Stein Presidential Campaign 2016 And Gary Johnson Presidential Campaign 2016
-86,86_S3_E27_2016_10_23_Opioid_Abuse.txt,3,27,10/23/2016,1163,Opioid Abuse
-87,87_S3_E28_2016_10_30_School_Segregation_In_The_United_States.txt,3,28,10/30/2016,1079,School Segregation In The United States
-88,88_S3_E29_2016_11_6_Multi_Level_Marketing.txt,3,29,11/6/2016,1918,Multi Level Marketing
-89,89_S3_E30_2016_11_13_2016_United_States_Election_Results.txt,3,30,11/13/2016,1741,2016 United States Election Results
-90,90_S4_E1_2017_2_12_Trump_Vs_Truth_Last_Week_Tonight.txt,4,1,2/12/2017,1430,Trump Vs Truth Last Week Tonight
-91,91_S4_E2_2017_2_19_Vladimir_Putin_And_Russia_United_States_Relations.txt,4,2,2/19/2017,1206,Vladimir Putin And Russia United States Relations
-92,92_S4_E3_2017_2_26_Patient_Protection_And_Affordable_Care_Act_And_Republican_Replacement_Proposals.txt,4,3,2/26/2017,1133,Patient Protection And Affordable Care Act And Republican Replacement Proposals
-93,93_S4_E4_2017_3_5_Tibetan_Sovereignty_Debate_And_Human_Rights_In_Tibet.txt,4,4,3/5/2017,1132,Tibetan Sovereignty Debate And Human Rights In Tibet
-94,94_S4_E5_2017_3_12_American_Health_Care_Act.txt,4,5,3/12/2017,1111,American Health Care Act
-95,95_S4_E6_2017_3_19_United_States_Federal_Budget.txt,4,6,3/19/2017,725,United States Federal Budget
-96,96_S4_E7_2017_4_2_Cannabis_In_The_United_States.txt,4,7,4/2/2017,1012,Cannabis In The United States
-97,97_S4_E8_2017_4_9_Gerrymandering_In_The_United_States.txt,4,8,4/9/2017,1174,Gerrymandering In The United States
-98,98_S4_E9_2017_4_16_2017_French_Presidential_Election.txt,4,9,4/16/2017,1089,2017 French Presidential Election
-99,99_S4_E10_2017_4_23_Ivanka_Trump_And_Jared_Kushner.txt,4,10,4/23/2017,1348,Ivanka Trump And Jared Kushner
-100,100_S4_E11_2017_5_7_Net_Neutrality_In_The_United_States.txt,4,11,5/7/2017,1173,Net Neutrality In The United States
-101,101_S4_E12_2017_5_14_Dialysis_And_DaVita_Inc.txt,4,12,5/14/2017,1450,Dialysis And DaVita Inc
-102,102_S4_E13_2017_5_21_Russian_Interference_In_The_2016_United_States_Elections.txt,4,13,5/21/2017,1446,Russian Interference In The 2016 United States Elections
-103,103_S4_E14_2017_6_4_United_States_Withdrawal_From_The_Paris_Agreement.txt,4,14,6/4/2017,1258,United States Withdrawal From The Paris Agreement
-104,104_S4_E15_2017_6_11_2017_United_Kingdom_General_Election_And_Brexit_Negotiations.txt,4,15,6/11/2017,1151,2017 United Kingdom General Election And Brexit Negotiations
-105,105_S4_E16_2017_6_18_Coal_Mining_In_The_United_States_And_Robert_E_Murray.txt,4,16,6/18/2017,1461,Coal Mining In The United States And Robert E Murray
-106,106_S4_E17_2017_6_25_Vaccine_Controversies_Safety.txt,4,17,6/25/2017,1635,Vaccine Controversies Safety
-107,107_S4_E18_2017_7_2_Television_News_In_The_United_States_Local_News_And_Sinclair_Broadcast_Group.txt,4,18,7/2/2017,1140,Television News In The United States Local News And Sinclair Broadcast Group
-108,108_S4_E19_2017_7_30_Alex_Jones_Radio_Host_And_InfoWars.txt,4,19,7/30/2017,1342,Alex Jones Radio Host And InfoWars
-109,109_S4_E20_2017_8_6_United_States_Border_Patrol.txt,4,20,8/6/2017,1221,United States Border Patrol
-110,110_S4_E21_2017_8_13_2017_North_Korea_Crisis.txt,4,21,8/13/2017,1620,2017 North Korea Crisis
-111,111_S4_E22_2017_8_20_Radioactive_Waste_And_High_Level_Radioactive_Waste_Management.txt,4,22,8/20/2017,1097,Radioactive Waste And High Level Radioactive Waste Management
-112,112_S4_E23_2017_9_10_Pardon_Of_Joe_Arpaio.txt,4,23,9/10/2017,858,Pardon Of Joe Arpaio
-113,113_S4_E24_2017_9_24_Mergers_And_Acquisitions.txt,4,24,9/24/2017,910,Mergers And Acquisitions
-114,114_S4_E25_2017_10_1_Forensic_Identification.txt,4,25,10/1/2017,1131,Forensic Identification
-115,115_S4_E26_2017_10_8_List_Of_Confederate_Monuments_And_Memorials.txt,4,26,10/8/2017,1299,List Of Confederate Monuments And Memorials
-116,116_S4_E27_2017_10_15_Equifax_May_July_2017_Data_Breach.txt,4,27,10/15/2017,922,Equifax May July 2017 Data Breach
-117,117_S4_E28_2017_10_29_National_Flood_Insurance_Program.txt,4,28,10/29/2017,1169,National Flood Insurance Program
-118,118_S4_E29_2017_11_5_Economic_Development_Incentives.txt,4,29,11/5/2017,896,Economic Development Incentives
-119,119_S4_E30_2017_11_12_Presidency_Of_Donald_Trump.txt,4,30,11/12/2017,1431,Presidency Of Donald Trump
-120,120_S5_E1_2018_2_18_Trump_Vs_The_World_Soft_Power.txt,5,1,2/18/2018,1155,Trump Vs The World Soft Power
-121,121_S5_E2_2018_2_25_2018_Italian_General_Election.txt,5,2,2/25/2018,1272,2018 Italian General Election
-122,122_S5_E3_2018_3_4_National_Rifle_Association_TV.txt,5,3,3/4/2018,1201,National Rifle Association TV
-123,123_S5_E4_2018_3_11_Bitcoin_And_Cryptocurrency.txt,5,4,3/11/2018,1521,Bitcoin And Cryptocurrency
-124,124_S5_E5_2018_3_18_Mike_Pence_And_The_Announcement_Of_The_Book_A_Day_In_The_Life_Of_Marlon_Bundo.txt,5,5,3/18/2018,1227,Mike Pence And The Announcement Of The Book A Day In The Life Of Marlon Bundo
-125,125_S5_E6_2018_4_1_Executive_Office_For_Immigration_Review.txt,5,6,4/1/2018,1072,Executive Office For Immigration Review
-126,126_S5_E7_2018_4_8_Crisis_Pregnancy_Centers.txt,5,7,4/8/2018,1269,Crisis Pregnancy Centers
-127,127_S5_E8_2018_4_15_Tax_Avoidance_In_The_United_States_Tax_Cuts_And_Jobs_Act_Of_2017.txt,5,8,4/15/2018,963,Tax Avoidance In The United States Tax Cuts And Jobs Act Of 2017
-128,128_S5_E9_2018_4_22_Iran_United_States_Relations_Joint_Comprehensive_Plan_Of_Action.txt,5,9,4/22/2018,1282,Iran United States Relations Joint Comprehensive Plan Of Action
-129,129_S5_E10_2018_5_6_Rudy_Giuliani.txt,5,10,5/6/2018,15.37,Rudy Giuliani
-130,130_S5_E11_2018_5_13_Crisis_In_Venezuela_2012_Present.txt,5,11,5/13/2018,1173,Crisis In Venezuela 2012 Present
-131,131_S5_E12_2018_5_20_Drug_Rehabilitation.txt,5,12,5/20/2018,1147,Drug Rehabilitation
-132,132_S5_E13_2018_6_3_Legal_Guardianship_In_Elder_Care.txt,5,13,6/3/2018,962,Legal Guardianship In Elder Care
-133,133_S5_E14_2018_6_10_Russian_Interference_In_The_2016_United_States_Elections_Special_Counsel_Investigation_2017_Present.txt,5,14,6/10/2018,1070,Russian Interference In The 2016 United States Elections Special Counsel Investigation 2017 Present
-134,134_S5_E15_2018_6_17_China_And_Xi_Jinping.txt,5,15,6/17/2018,1226,China And Xi Jinping
-135,135_S5_E16_2018_6_24_2018_Mexican_General_Election.txt,5,16,6/24/2018,1209,2018 Mexican General Election
-136,136_S5_E17_2018_7_1_CRISPR_And_Recombinant_DNA.txt,5,17,7/1/2018,1179,CRISPR And Recombinant DNA
-137,137_S5_E18_2018_7_29_Sexual_Harassment_In_The_Workplace_In_The_United_States.txt,5,18,7/29/2018,1724,Sexual Harassment In The Workplace In The United States
-138,138_S5_E19_2018_8_5_District_Attorney.txt,5,19,8/5/2018,1184,District Attorney
-139,139_S5_E20_2018_8_12_Astroturfing.txt,5,20,8/12/2018,1114,Astroturfing
-140,140_S5_E21_2018_8_19_Trump_Tariffs.txt,5,21,8/19/2018,1274,Trump Tariffs
-141,141_S5_E22_2018_9_9_Felony_Disenfranchisement.txt,5,22,9/9/2018,802,Felony Disenfranchisement
-142,142_S5_E23_2018_9_23_Facebook_And_The_2017_Rohingya_Persecution_In_Myanmar.txt,5,23,9/23/2018,1181,Facebook And The 2017 Rohingya Persecution In Myanmar
-143,143_S5_E24_2018_9_30_Brett_Kavanaugh_Sexual_Assault_And_Attempted_Rape_Allegations.txt,5,24,9/30/2018,1752,Brett Kavanaugh Sexual Assault And Attempted Rape Allegations
-144,144_S5_E25_2018_10_7_2018_Brazilian_General_Election.txt,5,25,10/7/2018,974,2018 Brazilian General Election
-145,145_S5_E26_2018_10_14_Killing_Of_Jamal_Khashoggi_And_Saudi_Arabia_United_States_Relations.txt,5,26,10/14/2018,1091,Killing Of Jamal Khashoggi And Saudi Arabia United States Relations
-146,146_S5_E27_2018_10_28_State_Attorney_General.txt,5,27,10/28/2018,1147,State Attorney General
-147,147_S5_E28_2018_11_4_Trump_Administration_Family_Separation_Policy.txt,5,28,11/4/2018,1100,Trump Administration Family Separation Policy
-148,148_S5_E29_2018_11_11_Drain_The_Swamp.txt,5,29,11/11/2018,997,Drain The Swamp
-149,149_S5_E30_2018_11_18_Authoritarianism.txt,5,30,11/18/2018,1109,Authoritarianism
-150,150_S6_E1_2019_2_17_Aftermath_Of_Brexit.txt,6,1,2/17/2019,1287,Aftermath Of Brexit
-151,151_S6_E2_2019_2_24_Psychics.txt,6,2,2/24/2019,1267,Psychics
-152,152_S6_E3_2019_3_3_Automation_And_Technological_Unemployment.txt,6,3,3/3/2019,1188,Automation And Technological Unemployment
-153,153_S6_E4_2019_3_10_Robocalls.txt,6,4,3/10/2019,1066,Robocalls
-154,154_S6_E5_2019_3_17_Public_Shaming_And_Online_Shaming.txt,6,5,3/17/2019,1605,Public Shaming And Online Shaming
-155,155_S6_E6_2019_3_31_WWE_And_Vince_McMahon.txt,6,6,3/31/2019,1387,WWE And Vince McMahon
-156,156_S6_E7_2019_4_7_Mobile_Homes_And_Frank_Rolfe.txt,6,7,4/7/2019,939,Mobile Homes And Frank Rolfe
-157,157_S6_E8_2019_4_14_Update_On_Opioid_Abuse_And_Richard_Sackler.txt,6,8,4/14/2019,1281,Update On Opioid Abuse And Richard Sackler
-158,158_S6_E9_2019_4_21_Mueller_Report.txt,6,9,4/21/2019,910,Mueller Report
-159,159_S6_E10_2019_5_5_Lethal_Injection_And_Midazolam.txt,6,10,5/5/2019,1162,Lethal Injection And Midazolam
-160,160_S6_E11_2019_5_12_Green_New_Deal_And_Carbon_Price.txt,6,11,5/12/2019,1168,Green New Deal And Carbon Price
-161,161_S6_E12_2019_5_19_Autopsies_Coroners_And_Medical_Examiners.txt,6,12,5/19/2019,1341,Autopsies Coroners And Medical Examiners
-162,162_S6_E13_2019_6_2_Medical_Device_Design.txt,6,13,6/2/2019,1146,Medical Device Design
-163,163_S6_E14_2019_6_9_Equal_Rights_Amendment_And_Phyllis_Schlafly.txt,6,14,6/9/2019,940,Equal Rights Amendment And Phyllis Schlafly
-164,164_S6_E15_2019_6_16_Impeachment_In_The_United_States_And_Efforts_To_Impeach_Donald_Trump.txt,6,15,6/16/2019,1221,Impeachment In The United States And Efforts To Impeach Donald Trump
-165,165_S6_E16_2019_6_23_Mount_Everest_And_Sherpa_People.txt,6,16,6/23/2019,1323,Mount Everest And Sherpa People
-166,166_S6_E17_2019_6_30_E_Commerce_Warehouse_Working_Conditions_Amazon_Company_And_Logistics_Business_Logistics.txt,6,17,6/30/2019,1278,E Commerce Warehouse Working Conditions Amazon Company And Logistics Business Logistics
-167,167_S6_E18_2019_7_28_Boris_Johnson.txt,6,18,7/28/2019,1323,Boris Johnson
-168,168_S6_E19_2019_8_4_Penal_Labor_In_The_United_States_And_Securus_Technologies.txt,6,19,8/4/2019,1089,Penal Labor In The United States And Securus Technologies
-169,169_S6_E20_2019_8_11_Gurbanguly_Berdimuhamedow_And_Guinness_World_Records.txt,6,20,8/11/2019,1241,Gurbanguly Berdimuhamedow And Guinness World Records
-170,170_S6_E21_2019_8_18_Sexism_In_Medicine_And_Race_And_Health_In_Medicine.txt,6,21,8/18/2019,1358,Sexism In Medicine And Race And Health In Medicine
+,episodeNumber,name,Season,Season_episode,date,duration_seconds,description,words,laughs,applause,word_per_sec
+0,2,2_S1_E2_2014_5_4_Capital_Punishment.txt,1,2,5/4/2014,744,Capital Punishment,1737,0,0,2.3346774193548385
+1,4,4_S1_E4_2014_5_18_Right_To_Be_Forgotten_Google_Spain_V_AEPD_And_Mario_Costeja_González.txt,1,4,5/18/2014,420,Right To Be Forgotten Google Spain V AEPD And Mario Costeja González,995,0,1,2.369047619047619
+2,5,5_S1_E5_2014_6_1_Net_Neutrality.txt,1,5,6/1/2014,798,Net Neutrality,1943,0,1,2.4348370927318297
+3,6,6_S1_E6_2014_6_8_FIFA.txt,1,6,6/8/2014,794,FIFA,1952,0,0,2.4584382871536525
+4,8,8_S1_E8_2014_6_22_Dr_Ozs_June_2014_Senate_Hearing_And_The_Dietary_Supplement_Health_And_Education_Act_Of_1994.txt,1,8,6/22/2014,986,Dr Ozs June 2014 Senate Hearing And The Dietary Supplement Health And Education Act Of 1994,2312,0,0,2.3448275862068964
+5,9,9_S1_E9_2014_6_29_Burwell_V_Hobby_Lobby.txt,1,9,6/29/2014,370,Burwell V Hobby Lobby,992,0,0,2.6810810810810812
+6,10,10_S1_E10_2014_7_13_Income_Inequality_And_Wealth_Inequality.txt,1,10,7/13/2014,850,Income Inequality And Wealth Inequality,2250,0,0,2.6470588235294117
+7,11,11_S1_E11_2014_7_20_Incarceration_In_The_United_States.txt,1,11,7/20/2014,1063,Incarceration In The United States,2632,0,0,2.4760112888052683
+8,12,12_S1_E12_2014_7_27_Nuclear_Weapons_And_The_United_States.txt,1,12,7/27/2014,922,Nuclear Weapons And The United States,2312,0,1,2.507592190889371
+9,13,13_S1_E13_2014_8_3_Native_Advertising.txt,1,13,8/3/2014,683,Native Advertising,1713,0,0,2.50805270863836
+10,14,14_S1_E14_2014_8_10_Payday_Loans.txt,1,14,8/10/2014,992,Payday Loans,2569,0,2,2.589717741935484
+11,15,15_S1_E15_2014_8_17_Shooting_Of_Michael_Brown_And_Police_Militarization.txt,1,15,8/17/2014,910,Shooting Of Michael Brown And Police Militarization,2274,0,1,2.498901098901099
+12,16,16_S1_E16_2014_9_7_Student_Debt.txt,1,16,9/7/2014,977,Student Debt,2551,0,0,2.6110542476970315
+13,17,17_S1_E17_2014_9_14_Scottish_Independence_Referendum.txt,1,17,9/14/2014,919,Scottish Independence Referendum,2225,1,6,2.4211099020674647
+14,18,18_S1_E18_2014_9_21_Miss_America_2015.txt,1,18,9/21/2014,925,Miss America 2015,2239,0,5,2.4205405405405407
+15,19,19_S1_E19_2014_9_28_Drones.txt,1,19,9/28/2014,777,Drones,2100,0,0,2.7027027027027026
+16,20,20_S1_E20_2014_10_5_Civil_Asset_Forfeiture.txt,1,20,10/5/2014,990,Civil Asset Forfeiture,2576,0,0,2.602020202020202
+17,21,21_S1_E21_2014_10_19_Special_Immigrant_Visa.txt,1,21,10/19/2014,967,Special Immigrant Visa,2548,0,2,2.6349534643226473
+18,22,22_S1_E22_2014_10_26_Sugar.txt,1,22,10/26/2014,694,Sugar,1810,0,0,2.6080691642651295
+19,23,23_S1_E23_2014_11_2_American_Legislative_Exchange_Council.txt,1,23,11/2/2014,1038,American Legislative Exchange Council,2659,0,0,2.5616570327552988
+20,24,24_S1_E24_2014_11_9_Lotteries.txt,1,24,11/9/2014,876,Lotteries,2399,0,0,2.7385844748858448
+21,25,25_S2_E1_2015_2_8_Pharmaceutical_Marketing.txt,2,1,2/8/2015,1033,Pharmaceutical Marketing,2734,0,1,2.6466602129719266
+22,26,26_S2_E2_2015_2_15_Tobacco.txt,2,2,2/15/2015,1091,Tobacco,2680,0,1,2.456461961503208
+23,27,27_S2_E3_2015_2_22_Judicial_Elections.txt,2,3,2/22/2015,807,Judicial Elections,2159,0,0,2.675340768277571
+24,28,28_S2_E4_2015_3_1_Infrastructure.txt,2,4,3/1/2015,1274,Infrastructure,3071,0,8,2.4105180533751964
+25,29,29_S2_E5_2015_3_8_Voting_Rights_In_The_U_S_Territories.txt,2,5,3/8/2015,792,Voting Rights In The U S Territories,1935,0,2,2.4431818181818183
+26,30,30_S2_E6_2015_3_15_National_Collegiate_Athletic_Association.txt,2,6,3/15/2015,1254,National Collegiate Athletic Association,3360,0,1,2.6794258373205744
+27,31,31_S2_E7_2015_3_22_Municipal_Violations.txt,2,7,3/22/2015,1075,Municipal Violations,3018,0,0,2.8074418604651163
+28,32,32_S2_E8_2015_4_5_Government_Surveillance.txt,2,8,4/5/2015,1994,Government Surveillance,5055,0,0,2.5351053159478436
+29,33,33_S2_E9_2015_4_12_Internal_Revenue_Service.txt,2,9,4/12/2015,1107,Internal Revenue Service,2457,0,1,2.2195121951219514
+30,34,34_S2_E10_2015_4_19_Patent_Trolls.txt,2,10,4/19/2015,664,Patent Trolls,1746,0,0,2.6295180722891565
+31,35,35_S2_E11_2015_4_26_Child_Labor_In_The_Fashion_Industry.txt,2,11,4/26/2015,1030,Child Labor In The Fashion Industry,2746,0,0,2.666019417475728
+32,36,36_S2_E12_2015_5_3_Standardized_Testing.txt,2,12,5/3/2015,1082,Standardized Testing,2894,0,0,2.674676524953789
+33,37,37_S2_E13_2015_5_10_Paid_Parental_Leave.txt,2,13,5/10/2015,741,Paid Parental Leave,2117,0,0,2.8569500674763835
+34,38,38_S2_E14_2015_5_17_Chicken_Contract_Farming.txt,2,14,5/17/2015,1102,Chicken Contract Farming,3072,0,0,2.7876588021778583
+35,39,39_S2_E15_2015_5_31_2015_FIFA_Corruption_Case.txt,2,15,5/31/2015,793,2015 FIFA Corruption Case,2043,0,0,2.5762925598991173
+36,40,40_S2_E16_2015_6_7_Bail.txt,2,16,6/7/2015,1070,Bail,2562,0,1,2.394392523364486
+37,41,41_S2_E17_2015_6_14_Torture.txt,2,17,6/14/2015,913,Torture,2256,0,3,2.470974808324206
+38,42,42_S2_E18_2015_6_21_Online_Harassment_And_Revenge_Porn.txt,2,18,6/21/2015,1010,Online Harassment And Revenge Porn,2811,0,0,2.783168316831683
+39,43,43_S2_E19_2015_6_28_Transgender_Rights.txt,2,19,6/28/2015,1007,Transgender Rights,2518,1,3,2.500496524329692
+40,44,44_S2_E20_2015_7_12_Stadiums.txt,2,20,7/12/2015,1148,Stadiums,3001,0,3,2.6141114982578397
+41,45,45_S2_E21_2015_7_19_Food_Waste.txt,2,21,7/19/2015,1070,Food Waste,2913,0,0,2.722429906542056
+42,46,46_S2_E22_2015_7_26_Mandatory_Sentencing_In_The_United_States.txt,2,22,7/26/2015,925,Mandatory Sentencing In The United States,2385,0,0,2.5783783783783782
+43,47,47_S2_E23_2015_8_2_Washington_DC_Voting_Rights_And_Statehood_Movement.txt,2,23,8/2/2015,1023,Washington DC Voting Rights And Statehood Movement,2421,0,0,2.366568914956012
+44,48,48_S2_E24_2015_8_9_Sex_Education_In_The_United_States.txt,2,24,8/9/2015,1265,Sex Education In The United States,3339,0,0,2.6395256916996046
+45,49,49_S2_E25_2015_8_16_Predatory_Churches_And_Televangelism.txt,2,25,8/16/2015,1206,Predatory Churches And Televangelism,3104,0,1,2.57379767827529
+46,50,50_S2_E26_2015_8_23_LGBT_Rights_In_The_United_States.txt,2,26,8/23/2015,886,LGBT Rights In The United States,2451,0,1,2.7663656884875847
+47,51,51_S2_E27_2015_9_13_Public_Defenders_In_The_United_States.txt,2,27,9/13/2015,900,Public Defenders In The United States,2387,0,0,2.652222222222222
+48,52,52_S2_E28_2015_9_27_European_Migrant_Crisis.txt,2,28,9/27/2015,1076,European Migrant Crisis,2699,0,1,2.508364312267658
+49,53,53_S2_E29_2015_10_4_Mental_Health_In_The_United_States.txt,2,29,10/4/2015,715,Mental Health In The United States,2030,0,0,2.839160839160839
+50,54,54_S2_E30_2015_10_11_North_Dakota_Oil_Boom.txt,2,30,10/11/2015,1174,North Dakota Oil Boom,3196,0,0,2.7223168654173766
+51,55,55_S2_E31_2015_10_18_2015_Canadian_Federal_Election.txt,2,31,10/18/2015,921,2015 Canadian Federal Election,2277,0,3,2.472312703583062
+52,56,56_S2_E32_2015_11_1_2015_Medicaid_Gap.txt,2,32,11/1/2015,845,2015 Medicaid Gap,2321,0,0,2.7467455621301777
+53,57,57_S2_E33_2015_11_8_Prisoner_Reentry.txt,2,33,11/8/2015,1125,Prisoner Reentry,3325,0,0,2.9555555555555557
+54,58,58_S2_E34_2015_11_15_Daily_Fantasy_Sports.txt,2,34,11/15/2015,1143,Daily Fantasy Sports,3147,0,0,2.7532808398950133
+55,59,59_S2_E35_2015_11_22_Penny_Manufacturing_Costs.txt,2,35,11/22/2015,576,Penny Manufacturing Costs,1625,0,0,2.8211805555555554
+56,60,60_S3_E1_2016_2_14_Voter_ID_Laws_In_The_United_States.txt,3,1,2/14/2016,849,Voter ID Laws In The United States,2263,0,0,2.6654888103651353
+57,61,61_S3_E2_2016_2_21_Abortion_In_The_United_States.txt,3,2,2/21/2016,961,Abortion In The United States,2682,0,0,2.7908428720083247
+58,62,62_S3_E3_2016_2_28_Donald_Trump_Presidential_Campaign_2016.txt,3,3,2/28/2016,1314,Donald Trump Presidential Campaign 2016,3647,0,0,2.7754946727549465
+59,63,63_S3_E4_2016_3_6_Special_Purpose_Districts.txt,3,4,3/6/2016,920,Special Purpose Districts,2499,0,0,2.716304347826087
+60,64,64_S3_E5_2016_3_13_FBI_Apple_Encryption_Dispute.txt,3,5,3/13/2016,1081,FBI Apple Encryption Dispute,3122,0,0,2.8880666049953745
+61,65,65_S3_E6_2016_3_20_Proposal_For_A_Border_Wall_Between_The_U_S_And_Mexico.txt,3,6,3/20/2016,1113,Proposal For A Border Wall Between The U S And Mexico,3017,0,0,2.710691823899371
+62,66,66_S3_E7_2016_4_3_Congressional_Fundraising.txt,3,7,4/3/2016,1285,Congressional Fundraising,3622,0,0,2.8186770428015566
+63,67,67_S3_E8_2016_4_10_Credit_Scores_In_The_United_States_Equifax_Experian_TransUnion_And_Background_Checks.txt,3,8,4/10/2016,1126,Credit Scores In The United States Equifax Experian TransUnion And Background Checks,3082,0,0,2.7371225577264653
+64,68,68_S3_E9_2016_4_17_Flint_Water_Crisis_And_Lead_Poisoning.txt,3,9,4/17/2016,1113,Flint Water Crisis And Lead Poisoning,2621,0,0,2.3548966756513927
+65,69,69_S3_E10_2016_4_24_Puerto_Rican_Government_Debt_Crisis.txt,3,10,4/24/2016,1282,Puerto Rican Government Debt Crisis,3419,0,0,2.6669266770670825
+66,70,70_S3_E11_2016_5_8_Scientific_Research_And_Science_Journalism.txt,3,11,5/8/2016,1168,Scientific Research And Science Journalism,3158,0,0,2.703767123287671
+67,71,71_S3_E12_2016_5_15_911_Emergency_Telephone_Number.txt,3,12,5/15/2016,957,911 Emergency Telephone Number,2766,0,0,2.890282131661442
+68,72,72_S3_E13_2016_5_22_Democratic_And_Republican_Presidential_Primaries_And_The_Primary_Process.txt,3,13,5/22/2016,868,Democratic And Republican Presidential Primaries And The Primary Process,2377,0,0,2.738479262672811
+69,73,73_S3_E14_2016_6_5_Debt_Buying_Industry.txt,3,14,6/5/2016,1251,Debt Buying Industry,3246,0,0,2.594724220623501
+70,74,74_S3_E15_2016_6_12_Retirement_Plans_And_Financial_Advisers.txt,3,15,6/12/2016,1290,Retirement Plans And Financial Advisers,3547,0,0,2.7496124031007754
+71,75,75_S3_E16_2016_6_19_2016_United_Kingdom_European_Union_Membership_Referendum.txt,3,16,6/19/2016,939,2016 United Kingdom European Union Membership Referendum,2354,0,0,2.50692225772098
+72,76,76_S3_E17_2016_6_26_2016_Summer_Olympics_And_Doping_In_Sports.txt,3,17,6/26/2016,1233,2016 Summer Olympics And Doping In Sports,3284,0,0,2.6634225466342256
+73,77,77_S3_E18_2016_7_24_2016_Republican_National_Convention.txt,3,18,7/24/2016,692,2016 Republican National Convention,1856,0,0,2.6820809248554913
+74,78,78_S3_E19_2016_7_31_2016_Democratic_National_Convention.txt,3,19,7/31/2016,1090,2016 Democratic National Convention,2407,0,3,2.208256880733945
+75,79,79_S3_E20_2016_8_7_Decline_Of_Newspapers_In_The_United_States.txt,3,20,8/7/2016,1163,Decline Of Newspapers In The United States,3305,0,0,2.841788478073947
+76,80,80_S3_E21_2016_8_14_Car_Finance_And_Subprime_Lending.txt,3,21,8/14/2016,1076,Car Finance And Subprime Lending,2914,0,0,2.70817843866171
+77,81,81_S3_E22_2016_8_21_Charter_Schools_In_The_United_States.txt,3,22,8/21/2016,1093,Charter Schools In The United States,3044,0,0,2.784995425434584
+78,82,82_S3_E23_2016_9_25_Hillary_Clinton_S_Controversies_And_Donald_Trump_S_Controversies.txt,3,23,9/25/2016,1276,Hillary Clinton S Controversies And Donald Trump S Controversies,3505,0,0,2.7468652037617556
+79,83,83_S3_E24_2016_10_2_Police_Reform.txt,3,24,10/2/2016,1195,Police Reform,3357,0,0,2.809205020920502
+80,84,84_S3_E25_2016_10_9_Guantanamo_Bay_Detention_Camp.txt,3,25,10/9/2016,1241,Guantanamo Bay Detention Camp,3387,0,0,2.7292506043513294
+81,85,85_S3_E26_2016_10_16_Jill_Stein_Presidential_Campaign_2016_And_Gary_Johnson_Presidential_Campaign_2016.txt,3,26,10/16/2016,1119,Jill Stein Presidential Campaign 2016 And Gary Johnson Presidential Campaign 2016,3146,0,2,2.811438784629133
+82,86,86_S3_E27_2016_10_23_Opioid_Abuse.txt,3,27,10/23/2016,1163,Opioid Abuse,3165,0,0,2.721410146173689
+83,87,87_S3_E28_2016_10_30_School_Segregation_In_The_United_States.txt,3,28,10/30/2016,1079,School Segregation In The United States,3002,0,0,2.7822057460611678
+84,88,88_S3_E29_2016_11_6_Multi_Level_Marketing.txt,3,29,11/6/2016,1918,Multi Level Marketing,5021,0,1,2.6178310740354536
+85,89,89_S3_E30_2016_11_13_2016_United_States_Election_Results.txt,3,30,11/13/2016,1741,2016 United States Election Results,4320,1,1,2.4813325674899485
+86,90,90_S4_E1_2017_2_12_Trump_Vs_Truth_Last_Week_Tonight.txt,4,1,2/12/2017,1430,Trump Vs Truth Last Week Tonight,3914,0,1,2.737062937062937
+87,91,91_S4_E2_2017_2_19_Vladimir_Putin_And_Russia_United_States_Relations.txt,4,2,2/19/2017,1206,Vladimir Putin And Russia United States Relations,3178,0,1,2.6351575456053067
+88,92,92_S4_E3_2017_2_26_Patient_Protection_And_Affordable_Care_Act_And_Republican_Replacement_Proposals.txt,4,3,2/26/2017,1133,Patient Protection And Affordable Care Act And Republican Replacement Proposals,3198,0,2,2.822594880847308
+89,93,93_S4_E4_2017_3_5_Tibetan_Sovereignty_Debate_And_Human_Rights_In_Tibet.txt,4,4,3/5/2017,1132,Tibetan Sovereignty Debate And Human Rights In Tibet,2836,0,1,2.5053003533568905
+90,94,94_S4_E5_2017_3_12_American_Health_Care_Act.txt,4,5,3/12/2017,1111,American Health Care Act,3132,0,0,2.819081908190819
+91,95,95_S4_E6_2017_3_19_United_States_Federal_Budget.txt,4,6,3/19/2017,725,United States Federal Budget,2150,0,0,2.9655172413793105
+92,96,96_S4_E7_2017_4_2_Cannabis_In_The_United_States.txt,4,7,4/2/2017,1012,Cannabis In The United States,2814,0,1,2.780632411067194
+93,97,97_S4_E8_2017_4_9_Gerrymandering_In_The_United_States.txt,4,8,4/9/2017,1174,Gerrymandering In The United States,3186,0,0,2.7137989778534926
+94,98,98_S4_E9_2017_4_16_2017_French_Presidential_Election.txt,4,9,4/16/2017,1089,2017 French Presidential Election,2692,0,2,2.4719926538108354
+95,99,99_S4_E10_2017_4_23_Ivanka_Trump_And_Jared_Kushner.txt,4,10,4/23/2017,1348,Ivanka Trump And Jared Kushner,3839,0,0,2.8479228486646884
+96,100,100_S4_E11_2017_5_7_Net_Neutrality_In_The_United_States.txt,4,11,5/7/2017,1173,Net Neutrality In The United States,3251,1,1,2.77152600170503
+97,101,101_S4_E12_2017_5_14_Dialysis_And_DaVita_Inc.txt,4,12,5/14/2017,1450,Dialysis And DaVita Inc,4063,0,2,2.8020689655172415
+98,102,102_S4_E13_2017_5_21_Russian_Interference_In_The_2016_United_States_Elections.txt,4,13,5/21/2017,1446,Russian Interference In The 2016 United States Elections,3992,0,0,2.760719225449516
+99,103,103_S4_E14_2017_6_4_United_States_Withdrawal_From_The_Paris_Agreement.txt,4,14,6/4/2017,1258,United States Withdrawal From The Paris Agreement,3521,0,0,2.7988871224165344
+100,104,104_S4_E15_2017_6_11_2017_United_Kingdom_General_Election_And_Brexit_Negotiations.txt,4,15,6/11/2017,1151,2017 United Kingdom General Election And Brexit Negotiations,3205,0,1,2.784535186794092
+101,105,105_S4_E16_2017_6_18_Coal_Mining_In_The_United_States_And_Robert_E_Murray.txt,4,16,6/18/2017,1461,Coal Mining In The United States And Robert E Murray,4044,0,4,2.7679671457905544
+102,106,106_S4_E17_2017_6_25_Vaccine_Controversies_Safety.txt,4,17,6/25/2017,1635,Vaccine Controversies Safety,4422,0,1,2.704587155963303
+103,107,107_S4_E18_2017_7_2_Television_News_In_The_United_States_Local_News_And_Sinclair_Broadcast_Group.txt,4,18,7/2/2017,1140,Television News In The United States Local News And Sinclair Broadcast Group,3179,0,1,2.7885964912280703
+104,108,108_S4_E19_2017_7_30_Alex_Jones_Radio_Host_And_InfoWars.txt,4,19,7/30/2017,1342,Alex Jones Radio Host And InfoWars,3964,18,0,2.953800298062593
+105,109,109_S4_E20_2017_8_6_United_States_Border_Patrol.txt,4,20,8/6/2017,1221,United States Border Patrol,3386,26,0,2.7731367731367733
+106,110,110_S4_E21_2017_8_13_2017_North_Korea_Crisis.txt,4,21,8/13/2017,1620,2017 North Korea Crisis,4615,32,8,2.8487654320987654
+107,111,111_S4_E22_2017_8_20_Radioactive_Waste_And_High_Level_Radioactive_Waste_Management.txt,4,22,8/20/2017,1097,Radioactive Waste And High Level Radioactive Waste Management,3104,30,2,2.829535095715588
+108,112,112_S4_E23_2017_9_10_Pardon_Of_Joe_Arpaio.txt,4,23,9/10/2017,858,Pardon Of Joe Arpaio,2405,21,3,2.803030303030303
+109,113,113_S4_E24_2017_9_24_Mergers_And_Acquisitions.txt,4,24,9/24/2017,910,Mergers And Acquisitions,2582,29,6,2.8373626373626375
+110,114,114_S4_E25_2017_10_1_Forensic_Identification.txt,4,25,10/1/2017,1131,Forensic Identification,3174,29,10,2.806366047745358
+111,115,115_S4_E26_2017_10_8_List_Of_Confederate_Monuments_And_Memorials.txt,4,26,10/8/2017,1299,List Of Confederate Monuments And Memorials,3674,39,1,2.8283294842186297
+112,116,116_S4_E27_2017_10_15_Equifax_May_July_2017_Data_Breach.txt,4,27,10/15/2017,922,Equifax May July 2017 Data Breach,2753,39,6,2.9859002169197395
+113,117,117_S4_E28_2017_10_29_National_Flood_Insurance_Program.txt,4,28,10/29/2017,1169,National Flood Insurance Program,3514,24,1,3.0059880239520957
+114,118,118_S4_E29_2017_11_5_Economic_Development_Incentives.txt,4,29,11/5/2017,896,Economic Development Incentives,2504,9,3,2.794642857142857
+115,119,119_S4_E30_2017_11_12_Presidency_Of_Donald_Trump.txt,4,30,11/12/2017,1431,Presidency Of Donald Trump,4109,24,3,2.8714185883997203
+116,120,120_S5_E1_2018_2_18_Trump_Vs_The_World_Soft_Power.txt,5,1,2/18/2018,1155,Trump Vs The World Soft Power,3097,0,0,2.6813852813852814
+117,121,121_S5_E2_2018_2_25_2018_Italian_General_Election.txt,5,2,2/25/2018,1272,2018 Italian General Election,3179,1,9,2.4992138364779874
+118,122,122_S5_E3_2018_3_4_National_Rifle_Association_TV.txt,5,3,3/4/2018,1201,National Rifle Association TV,3286,1,1,2.7360532889258953
+119,123,123_S5_E4_2018_3_11_Bitcoin_And_Cryptocurrency.txt,5,4,3/11/2018,1521,Bitcoin And Cryptocurrency,4154,0,3,2.7310979618671927
+120,124,124_S5_E5_2018_3_18_Mike_Pence_And_The_Announcement_Of_The_Book_A_Day_In_The_Life_Of_Marlon_Bundo.txt,5,5,3/18/2018,1227,Mike Pence And The Announcement Of The Book A Day In The Life Of Marlon Bundo,3339,0,0,2.7212713936430317
+121,125,125_S5_E6_2018_4_1_Executive_Office_For_Immigration_Review.txt,5,6,4/1/2018,1072,Executive Office For Immigration Review,2857,0,0,2.6651119402985075
+122,126,126_S5_E7_2018_4_8_Crisis_Pregnancy_Centers.txt,5,7,4/8/2018,1269,Crisis Pregnancy Centers,3339,2,2,2.631205673758865
+123,127,127_S5_E8_2018_4_15_Tax_Avoidance_In_The_United_States_Tax_Cuts_And_Jobs_Act_Of_2017.txt,5,8,4/15/2018,963,Tax Avoidance In The United States Tax Cuts And Jobs Act Of 2017,2738,0,2,2.843198338525441
+124,128,128_S5_E9_2018_4_22_Iran_United_States_Relations_Joint_Comprehensive_Plan_Of_Action.txt,5,9,4/22/2018,1282,Iran United States Relations Joint Comprehensive Plan Of Action,3645,0,2,2.843213728549142
+125,129,129_S5_E10_2018_5_6_Rudy_Giuliani.txt,5,10,5/6/2018,937,Rudy Giuliani,2542,0,0,2.712913553895411
+126,130,130_S5_E11_2018_5_13_Crisis_In_Venezuela_2012_Present.txt,5,11,5/13/2018,1173,Crisis In Venezuela 2012 Present,2864,0,2,2.441602728047741
+127,131,131_S5_E12_2018_5_20_Drug_Rehabilitation.txt,5,12,5/20/2018,1147,Drug Rehabilitation,3282,0,0,2.8613775065387967
+128,132,132_S5_E13_2018_6_3_Legal_Guardianship_In_Elder_Care.txt,5,13,6/3/2018,962,Legal Guardianship In Elder Care,2822,0,0,2.9334719334719335
+129,133,133_S5_E14_2018_6_10_Russian_Interference_In_The_2016_United_States_Elections_Special_Counsel_Investigation_2017_Present.txt,5,14,6/10/2018,1070,Russian Interference In The 2016 United States Elections Special Counsel Investigation 2017 Present,3196,0,1,2.986915887850467
+130,134,134_S5_E15_2018_6_17_China_And_Xi_Jinping.txt,5,15,6/17/2018,1226,China And Xi Jinping,3117,0,1,2.5424143556280585
+131,135,135_S5_E16_2018_6_24_2018_Mexican_General_Election.txt,5,16,6/24/2018,1209,2018 Mexican General Election,3148,0,2,2.6038047973531846
+132,136,136_S5_E17_2018_7_1_CRISPR_And_Recombinant_DNA.txt,5,17,7/1/2018,1179,CRISPR And Recombinant DNA,3385,0,0,2.8710771840542835
+133,137,137_S5_E18_2018_7_29_Sexual_Harassment_In_The_Workplace_In_The_United_States.txt,5,18,7/29/2018,1724,Sexual Harassment In The Workplace In The United States,4753,0,1,2.7569605568445477
+134,138,138_S5_E19_2018_8_5_District_Attorney.txt,5,19,8/5/2018,1184,District Attorney,3206,0,1,2.70777027027027
+135,139,139_S5_E20_2018_8_12_Astroturfing.txt,5,20,8/12/2018,1114,Astroturfing,3214,0,0,2.8850987432675046
+136,140,140_S5_E21_2018_8_19_Trump_Tariffs.txt,5,21,8/19/2018,1274,Trump Tariffs,3778,0,1,2.965463108320251
+137,141,141_S5_E22_2018_9_9_Felony_Disenfranchisement.txt,5,22,9/9/2018,802,Felony Disenfranchisement,2497,0,0,3.1134663341645887
+138,142,142_S5_E23_2018_9_23_Facebook_And_The_2017_Rohingya_Persecution_In_Myanmar.txt,5,23,9/23/2018,1181,Facebook And The 2017 Rohingya Persecution In Myanmar,3246,0,0,2.7485182049110923
+139,143,143_S5_E24_2018_9_30_Brett_Kavanaugh_Sexual_Assault_And_Attempted_Rape_Allegations.txt,5,24,9/30/2018,1752,Brett Kavanaugh Sexual Assault And Attempted Rape Allegations,4602,0,2,2.6267123287671232
+140,144,144_S5_E25_2018_10_7_2018_Brazilian_General_Election.txt,5,25,10/7/2018,974,2018 Brazilian General Election,2803,0,0,2.87782340862423
+141,145,145_S5_E26_2018_10_14_Killing_Of_Jamal_Khashoggi_And_Saudi_Arabia_United_States_Relations.txt,5,26,10/14/2018,1091,Killing Of Jamal Khashoggi And Saudi Arabia United States Relations,3108,0,0,2.848762603116407
+142,146,146_S5_E27_2018_10_28_State_Attorney_General.txt,5,27,10/28/2018,1147,State Attorney General,3025,1,2,2.637314734088928
+143,147,147_S5_E28_2018_11_4_Trump_Administration_Family_Separation_Policy.txt,5,28,11/4/2018,1100,Trump Administration Family Separation Policy,3185,0,0,2.8954545454545455
+144,148,148_S5_E29_2018_11_11_Drain_The_Swamp.txt,5,29,11/11/2018,997,Drain The Swamp,2924,0,0,2.9327983951855567
+145,149,149_S5_E30_2018_11_18_Authoritarianism.txt,5,30,11/18/2018,1109,Authoritarianism,3030,0,0,2.732191163210099
+146,150,150_S6_E1_2019_2_17_Aftermath_Of_Brexit.txt,6,1,2/17/2019,1287,Aftermath Of Brexit,3486,0,0,2.7086247086247086
+147,151,151_S6_E2_2019_2_24_Psychics.txt,6,2,2/24/2019,1267,Psychics,3789,0,0,2.9905288082083663
+148,152,152_S6_E3_2019_3_3_Automation_And_Technological_Unemployment.txt,6,3,3/3/2019,1188,Automation And Technological Unemployment,3362,0,0,2.82996632996633
+149,153,153_S6_E4_2019_3_10_Robocalls.txt,6,4,3/10/2019,1066,Robocalls,3036,1,2,2.848030018761726
+150,154,154_S6_E5_2019_3_17_Public_Shaming_And_Online_Shaming.txt,6,5,3/17/2019,1605,Public Shaming And Online Shaming,4800,0,0,2.9906542056074765
+151,155,155_S6_E6_2019_3_31_WWE_And_Vince_McMahon.txt,6,6,3/31/2019,1387,WWE And Vince McMahon,3799,0,7,2.739005046863735
+152,156,156_S6_E7_2019_4_7_Mobile_Homes_And_Frank_Rolfe.txt,6,7,4/7/2019,939,Mobile Homes And Frank Rolfe,2731,0,2,2.9084132055378062
+153,157,157_S6_E8_2019_4_14_Update_On_Opioid_Abuse_And_Richard_Sackler.txt,6,8,4/14/2019,1281,Update On Opioid Abuse And Richard Sackler,3603,0,1,2.812646370023419
+154,158,158_S6_E9_2019_4_21_Mueller_Report.txt,6,9,4/21/2019,910,Mueller Report,2597,1,1,2.853846153846154
+155,159,159_S6_E10_2019_5_5_Lethal_Injection_And_Midazolam.txt,6,10,5/5/2019,1162,Lethal Injection And Midazolam,3274,0,0,2.8175559380378656
+156,160,160_S6_E11_2019_5_12_Green_New_Deal_And_Carbon_Price.txt,6,11,5/12/2019,1168,Green New Deal And Carbon Price,3267,0,1,2.7970890410958904
+157,161,161_S6_E12_2019_5_19_Autopsies_Coroners_And_Medical_Examiners.txt,6,12,5/19/2019,1341,Autopsies Coroners And Medical Examiners,3762,0,1,2.8053691275167787
+158,162,162_S6_E13_2019_6_2_Medical_Device_Design.txt,6,13,6/2/2019,1146,Medical Device Design,3363,0,1,2.9345549738219896
+159,163,163_S6_E14_2019_6_9_Equal_Rights_Amendment_And_Phyllis_Schlafly.txt,6,14,6/9/2019,940,Equal Rights Amendment And Phyllis Schlafly,2735,0,0,2.9095744680851063
+160,164,164_S6_E15_2019_6_16_Impeachment_In_The_United_States_And_Efforts_To_Impeach_Donald_Trump.txt,6,15,6/16/2019,1221,Impeachment In The United States And Efforts To Impeach Donald Trump,3640,0,0,2.981162981162981
+161,165,165_S6_E16_2019_6_23_Mount_Everest_And_Sherpa_People.txt,6,16,6/23/2019,1323,Mount Everest And Sherpa People,3613,0,5,2.7309145880574452
+162,166,166_S6_E17_2019_6_30_E_Commerce_Warehouse_Working_Conditions_Amazon_Company_And_Logistics_Business_Logistics.txt,6,17,6/30/2019,1278,E Commerce Warehouse Working Conditions Amazon Company And Logistics Business Logistics,3727,0,0,2.916275430359937
+163,167,167_S6_E18_2019_7_28_Boris_Johnson.txt,6,18,7/28/2019,1323,Boris Johnson,3463,0,0,2.617535903250189
+164,168,168_S6_E19_2019_8_4_Penal_Labor_In_The_United_States_And_Securus_Technologies.txt,6,19,8/4/2019,1089,Penal Labor In The United States And Securus Technologies,3240,0,0,2.975206611570248
+165,169,169_S6_E20_2019_8_11_Gurbanguly_Berdimuhamedow_And_Guinness_World_Records.txt,6,20,8/11/2019,1241,Gurbanguly Berdimuhamedow And Guinness World Records,3154,1,7,2.541498791297341
+166,170,170_S6_E21_2019_8_18_Sexism_In_Medicine_And_Race_And_Health_In_Medicine.txt,6,21,8/18/2019,1358,Sexism In Medicine And Race And Health In Medicine,3790,0,1,2.7908689248895433
